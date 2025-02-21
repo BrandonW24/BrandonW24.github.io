@@ -1,0 +1,17 @@
+```yaml
+title: Game Developer Portfolio
+description: A portfolio showcasing my game development projects.
+baseurl: "" # Leave empty if your site is at the root of the domain
+url: "" # Your GitHub Pages URL (e.g., https://username.github.io)
+
+# Jekyll settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+```
