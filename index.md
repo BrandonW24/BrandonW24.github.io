@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XR Software Engineer
+title: Home
 ---
 
 # Brandon Withington | XR Software Engineer
