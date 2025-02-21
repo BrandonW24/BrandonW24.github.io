@@ -1,9 +1,8 @@
-<header>
-    <h1>{{ site.title | default: "Game Developer Portfolio" }}</h1>
-    <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/projects' | relative_url }}">Projects</a>
-        <a href="{{ '/about' | relative_url }}">About</a>
-        <a href="{{ '/contact' | relative_url }}">Contact</a>
-    </nav>
-</header>
+<footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: "Game Developer Portfolio" }}. All rights reserved.</p>
+    <p>
+        <a href="https://github.com/yourusername">GitHub</a> | 
+        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 
+        <a href="mailto:your.email@example.com">Email</a>
+    </p>
+</footer>

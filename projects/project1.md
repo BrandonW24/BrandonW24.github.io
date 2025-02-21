@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Project Title 1
@@ -31,4 +30,3 @@ Describe any challenges you faced during development and how you overcame them.
 ## Links
 - [Play the Game](https://www.example.com)
 - [View on GitHub](https://github.com/yourusername/project1)
-```
