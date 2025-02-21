@@ -3,7 +3,7 @@ layout: default
 title: Project Title 3
 ---
 
-# Project Title 1
+# Project Title 3
 
 ![Project Screenshot]({{ site.baseurl }}/assets/images/project1_screenshot.png)
 
