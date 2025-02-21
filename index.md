@@ -11,7 +11,7 @@ Welcome to my game development portfolio! Here, you'll find a collection of proj
 
 ## About Me
 
-Hi, I'm [Your Name], a passionate game developer with experience in [list key skills, e.g., Unity, Unreal Engine, C#, 3D modeling, etc.]. I love creating immersive and engaging experiences for players. Whether it's designing gameplay mechanics, optimizing performance, or crafting stunning visuals, I'm always excited to tackle new challenges.
+I’m Brandon Withington! I am an Extended Reality (XR) Software Engineer with over 3 years of experience developing immersive standalone game worlds and interactive experiences with the Unity engine. I am proficient in object-oriented programming languages including C# and Python, I have a deep passion for learning and innovation in game development and virtual reality. I am known for my self-motivation, enthusiasm, and dedication. I strive to craft compelling gameplay and unforgettable moments through creative solutions and story telling through the medium of code!
 
 ---
 
@@ -50,10 +50,9 @@ Here are some of the projects I've worked on. Click on the links to learn more a
 
 If you'd like to get in touch, feel free to reach out via:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **Email:** [brandon.f.withington@gmail.com](mailto:brandon.f.withington@gmail.com)
+- **LinkedIn:** [My Linkedin Profile][(2) Brandon Withington | LinkedIn](https://www.linkedin.com/in/brandon-withington/))
+- **GitHub:** [My GitHub Profile]([BrandonW24 (Brandon Withington)](https://github.com/BrandonW24))
 
 ---
 
