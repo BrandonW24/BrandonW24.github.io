@@ -1,4 +1,3 @@
-```yaml
 title: Game Developer Portfolio
 description: A portfolio showcasing my game development projects.
 baseurl: "" # Leave empty if your site is at the root of the domain
@@ -14,4 +13,3 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-```

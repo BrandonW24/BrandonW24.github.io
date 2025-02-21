@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Game Developer Portfolio
+title: XR Software Developer
 ---
 
 # Game Developer Portfolio
 
-Welcome to my game development portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills in game design, programming, and creativity. Each project has its own dedicated page with more details.
+Welcome to my game development portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills in game design, programming, and creativity. Each project has its own dedicated page with more details. 
+
+This site is still very much under construction at the moment!
 
 ---
 
@@ -51,8 +53,8 @@ Here are some of the projects I've worked on. Click on the links to learn more a
 If you'd like to get in touch, feel free to reach out via:
 
 - **Email:** [brandon.f.withington@gmail.com](mailto:brandon.f.withington@gmail.com)
-- **LinkedIn:** [My Linkedin Profile][(2) Brandon Withington | LinkedIn](https://www.linkedin.com/in/brandon-withington/))
-- **GitHub:** [My GitHub Profile]([BrandonW24 (Brandon Withington)](https://github.com/BrandonW24))
+- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/)
+- **GitHub:** [My GitHub Profile](https://github.com/BrandonW24)
 
 ---
 
