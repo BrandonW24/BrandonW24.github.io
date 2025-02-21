@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 1
+title: Project Title 3
 ---
 
 # Project Title 1
