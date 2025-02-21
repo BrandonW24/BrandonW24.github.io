@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XR Software Developer
+title: XR Software Engineer
 ---
 
 # Game Developer Portfolio
