@@ -12,7 +12,7 @@ Here are some of my game development projects.
 <div class="project-grid">
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project1">
-            <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
+            <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1">
             <p>Gunfire Inc.</p>
         </a>
     </div>

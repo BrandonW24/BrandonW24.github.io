@@ -14,7 +14,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 
 <div class="gallery">
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1" onclick="openLightbox(this)">
+        <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
         <p>Image 1</p>
     </div>
     <div class="gallery-item">

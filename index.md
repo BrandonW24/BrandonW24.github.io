@@ -28,7 +28,7 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 <div class="project-grid">
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project1">
-            <img src="assets/images/project1.jpg" alt="Project 1">
+            <img src="assets/images/project1.png" alt="Project 1">
             <p>Gunfire Inc.</p>
         </a>
     </div>
