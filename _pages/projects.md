@@ -28,6 +28,12 @@ Here are some of my game development projects.
             <p>Industrial Go-Karts</p>
         </a>
     </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project4">
+            <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Project 3">
+            <p>Momo's Space Diner</p>
+        </a>
+    </div>
 </div>
 
 
