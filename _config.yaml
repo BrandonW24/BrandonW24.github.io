@@ -1,15 +1,15 @@
 title: XR Software Engineer
 description: A portfolio showcasing my game development projects.
 baseurl: "" # Leave empty if your site is at the root of the domain
-url: "" # Your GitHub Pages URL (e.g., https://username.github.io)
+url: "https://brandonw24.github.io/" # Your GitHub Pages URL (e.g., https://username.github.io)
 
-# Jekyll settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
+# Navigation links
+navigation:
+  - name: Home
+    url: /
+  - name: Projects
+    url: /projects
+  - name: About
+    url: /about
+  - name: Contact
+    url: /contact
