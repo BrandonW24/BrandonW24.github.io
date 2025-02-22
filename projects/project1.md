@@ -7,7 +7,8 @@ title: Project Title 1
 
 
 ## Overview
-A detailed description of the project, including its purpose, inspiration, and goals.
+My goal with the creation and development of this game is to scratch an itch of mine that a lot of other games can't quite reach! I love looter shooters, its one of my favorite genres.
+
 ---
 
 ## Image Gallery
@@ -15,15 +16,15 @@ A detailed description of the project, including its purpose, inspiration, and g
 <div class="gallery">
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
-        <p>Logo</p>
+        <p></p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_2.jpg" alt="Project 2" onclick="openLightbox(this)">
-        <p>Item Info Sheet</p>
+        <p></p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_3.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Action Shot</p>
+        <p></p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Action" onclick="openLightbox(this)">
@@ -31,7 +32,7 @@ A detailed description of the project, including its purpose, inspiration, and g
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_5.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Loot Galore!</p>
+        <p></p>
     </div>
 </div>
 
@@ -67,19 +68,26 @@ Describe any challenges you faced during development and how you overcame them.
 ## Development Log Video Series
 
 <div class="video-gallery">
-    <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/3-vVpFSisxE')">
+        <img src="https://img.youtube.com/vi/3-vVpFSisxE/hqdefault.jpg" alt="Video Thumbnail">
         <p>From Feb. 19th, 2025</p>
     </div>
-    <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/Hgjjfns1nXw')">
+        <img src="https://img.youtube.com/vi/Hgjjfns1nXw/hqdefault.jpg" alt="Video Thumbnail">
         <p>From Feb. 7, 2025</p>
     </div>
-    <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/dnzlw88Q8FI')">
+        <img src="https://img.youtube.com/vi/dnzlw88Q8FI/hqdefault.jpg" alt="Video Thumbnail">
         <p>From Dec. 31, 2024</p>
     </div>
 </div>
+
+<!-- Lightbox Video Modal -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <span class="close" onclick="closeLightbox()">&times;</span>
+    <iframe id="lightbox-video" class="lightbox-content" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Links
 - [Play the Game](https://www.example.com)
