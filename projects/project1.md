@@ -13,7 +13,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 ---
 ## Gameplay Flow Chart
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Start Game] --> B[Enter Mission/Area]
     B --> C[Engage Enemies]
@@ -44,7 +44,7 @@ graph TD
         Q --> R[Unlock New Skills/Abilities]
         R --> H
     end
-```
+</div>
 
 ---
 ## Explanation of the Flow Chart
