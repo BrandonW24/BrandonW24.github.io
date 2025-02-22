@@ -165,6 +165,31 @@ footer a:hover {
     color: #007BFF;
 }
 
+
+.mermaid {
+    transform: scale(0.8); /* Scale down the entire diagram */
+    transform-origin: top left; /* Keep it aligned */
+  }
+  
+  .mermaid svg {
+    max-width: 100%; /* Ensure it doesn't overflow */
+    height: auto;
+  }
+  
+  .mermaid .node rect, 
+  .mermaid .node polygon {
+    width: 80px !important; /* Reduce node width */
+    height: 40px !important; /* Reduce node height */
+  }
+  
+  .mermaid .edgePath path {
+    stroke-width: 1.5px; /* Make lines thinner */
+  }
+  
+  .mermaid text {
+    font-size: 12px !important; /* Reduce text size */
+  }
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {

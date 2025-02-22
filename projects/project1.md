@@ -6,7 +6,8 @@ title: Project Title 1
 ## Gunfire Inc.
 
 <div class="project">
-![Project Screenshot]({{ site.baseurl }}/assets/images/project1.jpg)
+<img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
+            <p>Project Title 1</p>
 </div>
 
 ## Overview
@@ -36,24 +37,13 @@ graph TD
 ---
 ## Explanation of the Flow Chart
 
-📝 New Simplified Flowchart Explanation
-Start Game → Select and enter a mission.
-Engage Enemies → Fight until all enemies are defeated.
-Kill Enemies? →
-✅ Yes → Gain EXP & Loot.
-❌ No → Retry or Exit.
-Level Up? →
-✅ Yes → Allocate Skill Points.
-❌ No → Check Loot & Perks.
-Equip New Gear? →
-✅ Yes → Upgrade Character.
-❌ No → Proceed to the next mission.
-Repeat loop.
+The player begins the game by selecting and entering a mission, where they engage and fight enemies. To progress, the player must defeat all enemies; if successful, they gain EXP and random loot, but if not, they can retry the mission or exit. Earning enough EXP allows the player to level up and allocate skill points to upgrade abilities or stats. If not leveling up, the player checks their loot and any available perks. They then decide whether to equip new gear to upgrade their character or proceed directly to the next mission. This loop repeats, creating a cycle of combat, progression, and customization.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Dynamic Enemy AI
+- Comic Book Style Graphics Shader
+- Randomly Generated Guns and Loot
+- Meaningful Progression Systems
 
 ## Technologies Used
 - Unity
