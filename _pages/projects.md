@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# My Projects
+# Projects
 Here are some of my game development projects.
 ---
 <!-- Add your content here -->
