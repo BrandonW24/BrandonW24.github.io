@@ -29,19 +29,19 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project1">
             <img src="assets/images/project1.jpg" alt="Project 1">
-            <p>Project Title 1</p>
+            <p>Gunfire Inc.</p>
         </a>
     </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project2">
             <img src="assets/images/project2.jpg" alt="Project 2">
-            <p>Project Title 2</p>
+            <p>Miniputt Park VR & Desktop Game</p>
         </a>
     </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project3">
             <img src="assets/images/project3.jpg" alt="Project 3">
-            <p>Project Title 3</p>
+            <p>Industrial Go-Kart Racing</p>
         </a>
     </div>
     <!-- Add more projects as needed -->

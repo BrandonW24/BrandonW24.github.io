@@ -3,9 +3,8 @@ layout: default
 title: Project Title 3
 ---
 
-# Industrial Go-Kart Racing Game
-
-![Project Screenshot]({{ site.baseurl }}/assets/images/project3.jpg)
+## Industrial Go-Kart Racing Game
+A Cross-platform Unity based racing game.
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
