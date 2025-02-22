@@ -3,9 +3,9 @@ layout: default
 title: Project Title 2
 ---
 
-# Project Title 2
+# Miniputt Park VR & Desktop Game
 
-![Project Screenshot]({{ site.baseurl }}/assets/images/project1_screenshot.png)
+![Project Screenshot]({{ site.baseurl }}/assets/images/project2.jpg)
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.

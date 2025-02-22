@@ -3,9 +3,9 @@ layout: default
 title: Project Title 3
 ---
 
-# Project Title 3
+# Industrial Go-Kart Racing Game
 
-![Project Screenshot]({{ site.baseurl }}/assets/images/project1_screenshot.png)
+![Project Screenshot]({{ site.baseurl }}/assets/images/project3.jpg)
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
