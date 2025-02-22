@@ -24,12 +24,17 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Header */
+/* Ensure the header remains static */
 header {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
     text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
 }
 
 header h1 {
@@ -49,13 +54,29 @@ nav a {
     color: #007BFF;
 }
 
-/* Main Content */
+/* Push content down to avoid overlap with fixed header */
 main {
-    padding: 20px;
+    padding: 100px 20px 20px; /* Added top padding */
     max-width: 800px;
     margin: 0 auto;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    /* Page transition */
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+body.loaded main {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Prevent header from fading when navigating */
+body.transitioning main {
+    opacity: 0;
+    transform: translateY(-20px);
 }
 
 h2 {
