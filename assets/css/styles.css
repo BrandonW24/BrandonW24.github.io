@@ -235,6 +235,33 @@ footer a:hover {
     transform: scale(1.1);
 }
 
+/* Video Gallery Styles */
+.video-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.video-gallery-item {
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: calc(33.333% - 40px);
+    text-align: center;
+}
+
+.video-gallery-item iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border: none; /* Remove iframe border */
+}
+
+.video-gallery-item p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+}
+
 /* Lightbox styles */
 .lightbox {
     display: none;
