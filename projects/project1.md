@@ -15,23 +15,23 @@ A detailed description of the project, including its purpose, inspiration, and g
 <div class="gallery">
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
-        <p>Image 1</p>
+        <p>Logo</p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_2.jpg" alt="Project 2" onclick="openLightbox(this)">
-        <p>Image 2</p>
+        <p>Item Info Sheet</p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_3.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Image 3</p>
+        <p>Action Shot</p>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Image 4</p>
+        <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Action" onclick="openLightbox(this)">
+        <p></p>
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_5.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Image 5</p>
+        <p>Loot Galore!</p>
     </div>
 </div>
 
@@ -68,15 +68,15 @@ Describe any challenges you faced during development and how you overcame them.
 
 <div class="video-gallery">
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 19th, 2025</p>
     </div>
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 7, 2025</p>
     </div>
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Dec. 31, 2024</p>
     </div>
 </div>
