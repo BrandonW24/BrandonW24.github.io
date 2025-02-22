@@ -68,24 +68,18 @@ Describe any challenges you faced during development and how you overcame them.
 ## Development Log Video Series
 
 <div class="video-gallery">
-    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/3-vVpFSisxE')">
-        <img src="https://img.youtube.com/vi/3-vVpFSisxE/hqdefault.jpg" alt="Video Thumbnail">
+    <div class="video-gallery-item">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 19th, 2025</p>
     </div>
-    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/Hgjjfns1nXw')">
-        <img src="https://img.youtube.com/vi/Hgjjfns1nXw/hqdefault.jpg" alt="Video Thumbnail">
+    <div class="video-gallery-item">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 7, 2025</p>
     </div>
-    <div class="video-gallery-item" onclick="openLightbox('https://www.youtube.com/embed/dnzlw88Q8FI')">
-        <img src="https://img.youtube.com/vi/dnzlw88Q8FI/hqdefault.jpg" alt="Video Thumbnail">
+    <div class="video-gallery-item">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Dec. 31, 2024</p>
     </div>
-</div>
-
-<!-- Lightbox Video Modal -->
-<div id="lightbox" class="lightbox" onclick="closeLightbox()">
-    <span class="close" onclick="closeLightbox()">&times;</span>
-    <iframe id="lightbox-video" class="lightbox-content" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
