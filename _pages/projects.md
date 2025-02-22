@@ -9,22 +9,27 @@ Here are some of my game development projects.
 
 ---
 
-<!-- Add your content here -->
-
-### [Project Title 1]({{ site.baseurl }}/projects/project1)
-- **Description:** A brief description of the project.
-- **Technologies Used:** Unity, C#, Blender
-- **Role:** Gameplay Programmer, Level Designer
-
-### [Project Title 2]({{ site.baseurl }}/projects/project2)
-- **Description:** A brief description of the project.
-- **Technologies Used:** Unreal Engine, Blueprints, Substance Painter
-- **Role:** Lead Developer, 3D Artist
-
-### [Project Title 3]({{ site.baseurl }}/projects/project3)
-- **Description:** A brief description of the project.
-- **Technologies Used:** Godot, GDScript, Aseprite
-- **Role:** Solo Developer
+<div class="project-grid">
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project1">
+            <img src="assets/images/project1.jpg" alt="Project 1">
+            <p>Project Title 1</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project2">
+            <img src="assets/images/project2.jpg" alt="Project 2">
+            <p>Project Title 2</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project3">
+            <img src="assets/images/project3.jpg" alt="Project 3">
+            <p>Project Title 3</p>
+        </a>
+    </div>
+    <!-- Add more projects as needed -->
+</div>
 
 
 ---
