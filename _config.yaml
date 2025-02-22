@@ -3,6 +3,9 @@ description: A portfolio showcasing my game development projects.
 baseurl: "" # Leave empty if your site is at the root of the domain
 url: "https://brandonw24.github.io/" # Your GitHub Pages URL (e.g., https://username.github.io)
 
+include:
+  - assets
+  
 # Navigation links
 navigation:
   - name: Home
