@@ -22,12 +22,12 @@ Here are some of the projects I've worked on. Click on the links to learn more a
 
 ### [Project Title 2]({{ site.baseurl }}/projects/project2)
 - **Description:** A brief description of the project.
-- **Technologies Used:** Unreal Engine, Blueprints, Substance Painter
+- **Technologies Used:** Unity Engine, C#, Substance Painter
 - **Role:** Lead Developer, 3D Artist
 
 ### [Project Title 3]({{ site.baseurl }}/projects/project3)
 - **Description:** A brief description of the project.
-- **Technologies Used:** Godot, GDScript, Aseprite
+- **Technologies Used:** Unity, GDScript, Aseprite
 - **Role:** Solo Developer
 
 ---
@@ -35,7 +35,7 @@ Here are some of the projects I've worked on. Click on the links to learn more a
 ## Skills
 
 - **Game Engines:** Unity, Unreal Engine
-- **Programming Languages:** C#, C++, Python, GDScript
+- **Programming Languages:** C#, C++, Lua, OpenGL, Python, GDScript
 - **3D Modeling & Animation:** Blender, Maya, Substance Painter
 - **Version Control:** Git, Perforce
 - **Other Tools:** Visual Studio, JetBrains Rider, Adobe Photoshop

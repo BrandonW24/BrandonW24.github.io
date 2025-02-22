@@ -6,7 +6,9 @@ permalink: /projects/
 
 # Projects
 Here are some of my game development projects.
+
 ---
+
 <!-- Add your content here -->
 
 ### [Project Title 1]({{ site.baseurl }}/projects/project1)
@@ -23,4 +25,6 @@ Here are some of my game development projects.
 - **Description:** A brief description of the project.
 - **Technologies Used:** Godot, GDScript, Aseprite
 - **Role:** Solo Developer
+
+
 ---
