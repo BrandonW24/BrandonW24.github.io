@@ -6,6 +6,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Main content will expand to push the footer down */
