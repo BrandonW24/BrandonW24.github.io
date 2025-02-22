@@ -1,4 +1,4 @@
-title: XR Software Engineer
+title: Brandon Withington | XR Software Engineer
 description: A portfolio showcasing my game development projects.
 baseurl: "" # Leave empty if your site is at the root of the domain
 url: "https://brandonw24.github.io" # Your GitHub Pages URL (no trailing slash)
@@ -11,6 +11,12 @@ plugins:
 # Include the assets folder for processing
 include:
   - assets
+
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
 
 # comment
 # Navigation links

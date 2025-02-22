@@ -3,35 +3,29 @@ layout: default
 title: Home
 ---
 
-# Brandon Withington | XR Software Engineer
-
-Welcome to my game development portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills in game design, programming, and creativity. Each project has its own dedicated page with more details. 
-
-This site is still very much under construction at the moment!
-
----
-
 ## About Me
 
-I’m Brandon Withington! I am an Extended Reality (XR) Software Engineer with over 3 years of experience developing immersive standalone game worlds and interactive experiences with the Unity engine. I am proficient in object-oriented programming languages including C# and Python, I have a deep passion for learning and innovation in game development and virtual reality. I am known for my self-motivation, enthusiasm, and dedication. I strive to craft compelling gameplay and unforgettable moments through creative solutions and story telling through the medium of code!
+Hi there! I’m Brandon Withington! I am an Extended Reality (XR) Software Engineer with over 3 years of experience developing immersive standalone game worlds and interactive experiences with the Unity engine. I am proficient in object-oriented programming languages including C# and Python, I have a deep passion for learning and innovation in game development and virtual reality. I am known for my self-motivation, enthusiasm, and dedication. I strive to craft compelling gameplay and unforgettable moments through creative solutions and story telling through the medium of code!
 
+
+This site is very much still under construction at this moment!
 ---
 
-## Projects
+## Project Overview
 
 Here are some of the projects I've worked on. Click on the links to learn more about each one:
 
-### 1. [Project Title 1]({{ site.baseurl }}/projects/project1)
+### [Project Title 1]({{ site.baseurl }}/projects/project1)
 - **Description:** A brief description of the project.
 - **Technologies Used:** Unity, C#, Blender
 - **Role:** Gameplay Programmer, Level Designer
 
-### 2. [Project Title 2]({{ site.baseurl }}/projects/project2)
+### [Project Title 2]({{ site.baseurl }}/projects/project2)
 - **Description:** A brief description of the project.
 - **Technologies Used:** Unreal Engine, Blueprints, Substance Painter
 - **Role:** Lead Developer, 3D Artist
 
-### 3. [Project Title 3]({{ site.baseurl }}/projects/project3)
+### [Project Title 3]({{ site.baseurl }}/projects/project3)
 - **Description:** A brief description of the project.
 - **Technologies Used:** Godot, GDScript, Aseprite
 - **Role:** Solo Developer
@@ -40,7 +34,7 @@ Here are some of the projects I've worked on. Click on the links to learn more a
 
 ## Skills
 
-- **Game Engines:** Unity, Unreal Engine, Godot
+- **Game Engines:** Unity, Unreal Engine
 - **Programming Languages:** C#, C++, Python, GDScript
 - **3D Modeling & Animation:** Blender, Maya, Substance Painter
 - **Version Control:** Git, Perforce
