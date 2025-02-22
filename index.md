@@ -16,50 +16,25 @@ This site is very much still under construction at this moment!
 Here are some of the projects I've worked on. Click on a project to learn more:
 
 <div class="project-grid">
-    <a href="{{ site.baseurl }}/projects/project1" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
-        <h3>Project Title 1</h3>
-    </a>
-    
-    <a href="{{ site.baseurl }}/projects/project2" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project2.jpg" alt="Project 2">
-        <h3>Project Title 2</h3>
-    </a>
-    
-    <a href="{{ site.baseurl }}/projects/project3" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3">
-        <h3>Project Title 3</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project4" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project4.jpg" alt="Project 4">
-        <h3>Project Title 4</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project5" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project5.jpg" alt="Project 5">
-        <h3>Project Title 5</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project6" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project6.jpg" alt="Project 6">
-        <h3>Project Title 6</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project7" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project7.jpg" alt="Project 7">
-        <h3>Project Title 7</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project8" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project8.jpg" alt="Project 8">
-        <h3>Project Title 8</h3>
-    </a>
-
-    <a href="{{ site.baseurl }}/projects/project9" class="project">
-        <img src="{{ site.baseurl }}/assets/images/project9.jpg" alt="Project 9">
-        <h3>Project Title 9</h3>
-    </a>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project1">
+            <img src="assets/images/project1.jpg" alt="Project 1">
+            <p>Project Title 1</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project2">
+            <img src="assets/images/project2.jpg" alt="Project 2">
+            <p>Project Title 2</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project3">
+            <img src="assets/images/project3.jpg" alt="Project 3">
+            <p>Project Title 3</p>
+        </a>
+    </div>
+    <!-- Add more projects as needed -->
 </div>
 
 
