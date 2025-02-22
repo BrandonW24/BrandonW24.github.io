@@ -1,11 +1,17 @@
 title: XR Software Engineer
 description: A portfolio showcasing my game development projects.
 baseurl: "" # Leave empty if your site is at the root of the domain
-url: "https://brandonw24.github.io/" # Your GitHub Pages URL (e.g., https://username.github.io)
+url: "https://brandonw24.github.io" # Your GitHub Pages URL (no trailing slash)
 
+# Jekyll settings
+theme: minima # If you're using the minima theme
+plugins:
+  - jekyll-feed
+
+# Include the assets folder for processing
 include:
   - assets
-  
+
 # Navigation links
 navigation:
   - name: Home
