@@ -5,7 +5,9 @@ title: Project Title 1
 
 ## Gunfire Inc.
 
+<div class="project">
 ![Project Screenshot]({{ site.baseurl }}/assets/images/project1.jpg)
+</div>
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
