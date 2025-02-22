@@ -8,6 +8,7 @@ title: Project Title 1
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
+---
 
 ## Image Gallery
 
