@@ -7,8 +7,15 @@ title: Project Title 1
 
 
 ## Overview
-My goal with the creation and development of this game is to scratch an itch of mine that a lot of other games can't quite reach! I love looter shooters, its one of my favorite genres.
+My goal with the creation and development of this game is to scratch an itch of mine that a lot of other games can't quite reach. I love looter shooters, its one of my favorite genres!
+I set out wanting to create a game that evokes the essence of Borderlands 1, and borrow a few concepts from Diablo 2 in how the player's stats and loot rolls operate.
+Prior to this game, I had worked fairly extensively on other PvE projects for Massive Loop those projects were The Cursed Graveyard, Impiety, and Skul'Ras. Each time I began a new fresh project
+I found that I would often learn and improve so much more than iterating directly ontop of an ongoing project. A goal of mine here is to learn more extensively how to craft gameplay systems
+that can be interlaced with multiplayer functionality. Where my previous PvE projects did have some minor elements of multiplayer capabilities, an explicit goal for this project was to create it
+in such a way with mutliplayer in mind. 
 
+It is indeed quite a challenge to keep each and every data point synchronized between individual clients but I believe, with this game in particular, that I have designed a system that is more
+than capable of sustaining upwards of 6 co-op players against AI opponents.
 ---
 
 ## Image Gallery
@@ -48,6 +55,7 @@ My goal with the creation and development of this game is to scratch an itch of 
 The player begins the game by selecting and entering a mission, where they engage and fight enemies. To progress, the player must defeat all enemies; if successful, they gain EXP and random loot, but if not, they can retry the mission or exit. Earning enough EXP allows the player to level up and allocate skill points to upgrade abilities or stats. If not leveling up, the player checks their loot and any available perks. They then decide whether to equip new gear to upgrade their character or proceed directly to the next mission. This loop repeats, creating a cycle of combat, progression, and customization.
 
 ## Features
+- Completely Synchronized Multiplayer Functionality
 - Dynamic Enemy AI
 - Comic Book Style Graphics Shader
 - Randomly Generated Guns and Loot
@@ -59,11 +67,14 @@ The player begins the game by selecting and entering a mission, where they engag
 - Blender
 
 ## My Role
-- Gameplay Programmer
+- Solo Developer 
+- Programmer
+- System Designer
 - Level Designer
 
 ## Challenges & Solutions
-Describe any challenges you faced during development and how you overcame them.
+A large challenge on the onset of this game was tackling how to face multiplayer functionality. In my prior games, The Cursed Graveyard, Impiety, and Skul'Ras-- those were programmed in LUA, and had very specific methods that would enable developers to easily create multiplayer functionality. Unlike the previous PvE projects I have worked on, I chose to write this one in C#.
+Since then we at Massive Loop have integrated a new shiny C# compiler that enables so much more creativity and dynamic code from developers. Setting up networking multiplayer structure is quite a bit different from how it is done in LUA. Switching from developing in LUA to C# was a bit of a challenge in its own right, but they are similar enough and I always love to re-learn programming languages. 
 
 ## Development Log Video Series
 
@@ -84,5 +95,5 @@ Describe any challenges you faced during development and how you overcame them.
 
 
 ## Links
-- [Play the Game](https://www.example.com)
-- [View on GitHub](https://github.com/yourusername/project1)
+- [Play the Game](https://massiveloop.com/world/efbed9c0-c0c8-4ecf-b722-6a3f0a2e1d4e)
+- [View on GitHub](https://github.com/BrandonW24/Brandons_MassiveLoop_CSharp_Scripts)
