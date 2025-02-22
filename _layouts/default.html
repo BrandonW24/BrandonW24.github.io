@@ -12,20 +12,31 @@
       mermaid.initialize({ startOnLoad: true });
     </script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/panzoom/9.4.2/panzoom.min.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const chart = document.querySelector(".mermaid"); // Selects the flowchart container
-        const zoomInstance = panzoom(chart, {
-          maxZoom: 3,  // Allow zooming in up to 3x
-          minZoom: 0.5, // Allow zooming out to 50%
-          smoothScroll: true
-        });
-
-        // Optional: Reset zoom on double-click
-        chart.addEventListener("dblclick", () => zoomInstance.zoomAbs(0, 0, 1));
-      });
-    </script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+      if (typeof mermaid !== "undefined") {
+          mermaid.initialize({
+              startOnLoad: true, // Ensures it runs only once
+              theme: 'default',
+              flowchart: {
+                  useMaxWidth: false,
+                  htmlLabels: true,
+                  curve: 'basis',
+                  diagramPadding: 8,
+                  nodeSpacing: 20, /* Reduce node spacing */
+                  rankSpacing: 20, /* Reduce vertical stretching */
+                  width: 400, /* Reduce overall width */
+              }
+          });
+  
+          // Force a single render pass
+          document.querySelectorAll('.mermaid').forEach((el) => {
+              el.innerHTML = el.innerHTML.trim();
+              mermaid.init(undefined, el);
+          });
+      }
+  });
+  </script>
 
 
     <script>

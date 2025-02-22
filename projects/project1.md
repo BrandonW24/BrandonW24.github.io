@@ -5,15 +5,31 @@ title: Project Title 1
 
 ## Gunfire Inc.
 
+## Overview
+A detailed description of the project, including its purpose, inspiration, and goals.
+
+## Images
+
 <div class="project-grid">
     <div class="project">
     <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
-                <p>Project Title 1</p>
+                <p>Image 1</p>
     </div>
 </div>
 
-## Overview
-A detailed description of the project, including its purpose, inspiration, and goals.
+<div class="project-grid">
+    <div class="project">
+    <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
+                <p>Image 2</p>
+    </div>
+</div>
+
+<div class="project-grid">
+    <div class="project">
+    <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
+                <p>Image 3</p>
+    </div>
+</div>
 
 ---
 ## Gameplay Flow Chart

@@ -165,36 +165,44 @@ footer a:hover {
     color: #007BFF;
 }
 
-
 .mermaid {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow-x: auto;  /* Allows zooming via scrolling */
-    overflow-y: hidden;
+    overflow: hidden; /* Prevent unnecessary scrolling */
     max-width: 100%;
+    transform: scale(0.85); /* Reduce default size */
+    transform-origin: top center; /* Keep scaling centered */
 }
 
-  
 .mermaid svg {
-    max-width: 90vw; /* Ensures the chart isn't too narrow */
+    width: auto;
+    max-width: 80vw; /* Reduce max width */
+    min-width: 500px; /* Prevent text cutting */
     height: auto;
-    min-width: 600px; /* Prevents text from being cut */
 }
-  
-  .mermaid .node rect, 
-  .mermaid .node polygon {
-    width: 120px !important; /* Increase width */
-    height: 50px !important; /* Adjust height */
-  }
-  
-  .mermaid .edgePath path {
-    stroke-width: 1.5px; /* Keep lines thin */
-  }
-  
-  .mermaid text {
-    font-size: 14px !important; /* Adjust text size for clarity */
-  }
+
+/* Smaller nodes */
+.mermaid .node rect, 
+.mermaid .node polygon {
+    width: 100px !important; /* Decrease width */
+    height: 40px !important; /* Decrease height */
+}
+
+/* Reduce line thickness */
+.mermaid .edgePath path {
+    stroke-width: 1px; 
+}
+
+/* Smaller font */
+.mermaid text {
+    font-size: 12px !important;
+}
+
+.mermaid:hover {
+    transform: scale(1); /* Zoom in on hover */
+    transition: transform 0.3s ease-in-out;
+}
 
 
   .gallery {
