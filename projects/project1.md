@@ -5,9 +5,25 @@ title: Project Title 1
 
 ## Gunfire Inc.
 
-<div class="project">
-<img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1">
-            <p>Project Title 1</p>
+<div class="gallery">
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1" onclick="openLightbox(this)">
+        <p>Project Title 1</p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project2.jpg" alt="Project 2" onclick="openLightbox(this)">
+        <p>Project Title 2</p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3" onclick="openLightbox(this)">
+        <p>Project Title 3</p>
+    </div>
+</div>
+
+<!-- Lightbox Modal -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <span class="close">&times;</span>
+    <img id="lightbox-img" class="lightbox-content">
 </div>
 
 ## Overview
