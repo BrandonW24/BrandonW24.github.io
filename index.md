@@ -60,8 +60,8 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 
 If you'd like to get in touch, feel free to reach out via:
 
-- **Email:** [brandon.f.withington@gmail.com](mailto:brandon.f.withington@gmail.com)
-- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/)
-- **GitHub:** [My GitHub Profile](https://github.com/BrandonW24)
+- **Email:** [brandon.f.withington@gmail.com](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
+- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
+- **GitHub:** [My GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
 
 ---
