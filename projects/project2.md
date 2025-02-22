@@ -53,5 +53,5 @@ A detailed description of the project, including its purpose, inspiration, and g
 Describe any challenges you faced during development and how you overcame them.
 
 ## Links
-- [Play the Game](https://www.example.com)
-- [View on GitHub](https://github.com/yourusername/project1)
+- [Play the Game](https://massiveloop.com/world/bef7df03-9694-4250-b87b-896205d9d5c7)
+- [View on GitHub](https://gitfront.io/r/BrandonW24/bR6R7Q4emNvo/Brandons-MassiveLoop-CSharp-Scripts/)
