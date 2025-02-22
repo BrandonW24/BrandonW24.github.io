@@ -11,6 +11,16 @@ Hi there! I’m Brandon Withington! I am an Extended Reality (XR) Software Engin
 This site is very much still under construction at this moment!
 ---
 
+## Skills
+
+- **Game Engines:** Unity, Unreal Engine
+- **Programming Languages:** C#, C++, Lua, OpenGL, Python, GDScript
+- **3D Modeling & Animation:** Blender, Maya, Substance Painter
+- **Version Control:** Git, Perforce
+- **Other Tools:** Visual Studio, JetBrains Rider, Adobe Photoshop
+
+---
+
 ## Project Overview
 
 Here are some of the projects I've worked on. Click on a project to learn more:
@@ -37,16 +47,8 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     <!-- Add more projects as needed -->
 </div>
 
-
-## Skills
-
-- **Game Engines:** Unity, Unreal Engine
-- **Programming Languages:** C#, C++, Lua, OpenGL, Python, GDScript
-- **3D Modeling & Animation:** Blender, Maya, Substance Painter
-- **Version Control:** Git, Perforce
-- **Other Tools:** Visual Studio, JetBrains Rider, Adobe Photoshop
-
 ---
+
 
 ## Contact Me
 
