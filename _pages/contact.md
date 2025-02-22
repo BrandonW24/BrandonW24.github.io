@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact/
 ---
 
-# Contact Me
+## Contact Me
 
 Please click the button below to send me an email.
 
