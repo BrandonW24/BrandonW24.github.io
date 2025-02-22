@@ -97,4 +97,4 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/efbed9c0-c0c8-4ecf-b722-6a3f0a2e1d4e){:target="_blank" rel="noopener noreferrer"}
-- [View on GitHub](https://github.com/BrandonW24/Brandons_MassiveLoop_CSharp_Scripts){:target="_blank" rel="noopener noreferrer"}
+- [View on GitHub](https://gitfront.io/r/BrandonW24/bR6R7Q4emNvo/Brandons-MassiveLoop-CSharp-Scripts/){:target="_blank" rel="noopener noreferrer"}
