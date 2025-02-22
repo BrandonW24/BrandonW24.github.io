@@ -28,6 +28,13 @@ A detailed description of the project, including its purpose, inspiration, and g
 </div>
 
 
+<!-- Lightbox Modal -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <span class="close">&times;</span>
+    <img id="lightbox-img" class="lightbox-content">
+</div>
+
+
 ## Features
 - Feature 1
 - Feature 2
