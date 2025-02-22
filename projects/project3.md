@@ -53,5 +53,5 @@ A detailed description of the project, including its purpose, inspiration, and g
 Describe any challenges you faced during development and how you overcame them.
 
 ## Links
-- [Play the Game](https://www.example.com)
-- [View on GitHub](https://github.com/yourusername/project1)
+- [Play the Game](https://www.example.com){:target="_blank" rel="noopener noreferrer"}
+- [View on GitHub](https://github.com/yourusername/project1){:target="_blank" rel="noopener noreferrer"}
