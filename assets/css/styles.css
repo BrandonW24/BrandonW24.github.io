@@ -167,15 +167,20 @@ footer a:hover {
 
 
 .mermaid {
-    width: 100% !important; /* Make it use full width */
-    height: auto;
-    transform: none; /* Remove fixed scaling */
-  }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: auto;  /* Allows zooming via scrolling */
+    overflow-y: hidden;
+    max-width: 100%;
+}
+
   
-  .mermaid svg {
-    max-width: 100%; /* Ensure it fits container */
+.mermaid svg {
+    max-width: 90vw; /* Ensures the chart isn't too narrow */
     height: auto;
-  }
+    min-width: 600px; /* Prevents text from being cut */
+}
   
   .mermaid .node rect, 
   .mermaid .node polygon {
@@ -190,7 +195,6 @@ footer a:hover {
   .mermaid text {
     font-size: 14px !important; /* Adjust text size for clarity */
   }
-
 
 
   .gallery {
@@ -248,7 +252,6 @@ footer a:hover {
     font-weight: bold;
     cursor: pointer;
 }
-
 
 
 /* Responsive Design */
