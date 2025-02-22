@@ -8,4 +8,4 @@ permalink: /contact/
 
 Please click the button below to send me an email.
 
-<a href="mailto:brandon.f.withington@gmail.com" class="contact-button">📧 Email Me</a>
+<a href="mailto:brandon.f.withington@gmail.com" class="contact-button">📧 Shoot Me An Email!</a>

@@ -4,9 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-## Download My Resume
+<div style="text-align: center;">
+    <h2>Download My Resume</h2>
 
-
-<a href="{{ '/assets/Brandon_Resume_2025.pdf' | relative_url }}" class="download-button" download>
-    📄 Download My Resume
-</a>
+    <a href="{{ '/assets/Brandon_Resume_2025.pdf' | relative_url }}" class="download-button" download>
+        📄 Download My Resume
+    </a>
+</div>

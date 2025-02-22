@@ -59,5 +59,3 @@ If you'd like to get in touch, feel free to reach out via:
 - **GitHub:** [My GitHub Profile](https://github.com/BrandonW24)
 
 ---
-
-Thank you for visiting my portfolio! I look forward to connecting with you.
