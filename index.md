@@ -44,6 +44,12 @@ Here are some of the projects I've worked on. Click on a project to learn more:
             <p>Industrial Go-Kart Racing</p>
         </a>
     </div>
+        <div class="project">
+        <a href="{{ site.baseurl }}/projects/project4">
+            <img src="assets/images/Momo.png" alt="Project 4">
+            <p>Momo's Space Diner</p>
+        </a>
+    </div>
     <!-- Add more projects as needed -->
 </div>
 
