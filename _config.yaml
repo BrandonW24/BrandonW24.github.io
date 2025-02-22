@@ -12,6 +12,7 @@ plugins:
 include:
   - assets
 
+# comment
 # Navigation links
 navigation:
   - name: Home
