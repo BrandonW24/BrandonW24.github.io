@@ -8,15 +8,14 @@ title: Project Title 1
 
 ## Overview
 My goal with the creation and development of this game is to scratch an itch of mine that a lot of other games can't quite reach. I love looter shooters, its one of my favorite genres!
-I set out wanting to create a game that evokes the essence of Borderlands 1, and borrow a few concepts from Diablo 2 in how the player's stats and loot rolls operate.
-Prior to this game, I had worked fairly extensively on other PvE projects for Massive Loop those projects were The Cursed Graveyard, Impiety, and Skul'Ras. Each time I began a new fresh project
-I found that I would often learn and improve so much more than iterating directly ontop of an ongoing project. A goal of mine here is to learn more extensively how to craft gameplay systems
-that can be interlaced with multiplayer functionality. Where my previous PvE projects did have some minor elements of multiplayer capabilities, an explicit goal for this project was to create it
-in such a way with mutliplayer in mind. 
+I set out wanting to create a game that evokes the essence of Borderlands 1, and borrow a few concepts from Diablo 2 in how the player's stats and loot rolls operate. I wanted to make something that had its own visual identity that was also separate from my prior projects that often reach for a more realistic looks.
+Prior to this game, I had worked fairly extensively on other PvE projects for Massive Loop. Those projects were The Cursed Graveyard, Impiety, and Skul'Ras. Each time I began a new fresh project
+I found that I would often learn and improve so much more than iterating directly ontop of an ongoing project. I do often return to my older projects to fix any ongoing bugs or integrate a new fun idea to keep things fresh!
+
+A goal of mine here is to learn more extensively how to craft gameplay systems that can be interlaced with multiplayer functionality. Where my previous PvE projects did have some minor elements of multiplayer capabilities, an explicit goal for this project was to create it in such a way with mutliplayer in mind. I found that if I started a project without multiplayer in mind, it is often hard to convert solid singleplayer functionality to work with multiple clients in the picture.
 
 It is indeed quite a challenge to keep each and every data point synchronized between individual clients but I believe, with this game in particular, that I have designed a system that is more
 than capable of sustaining upwards of 6 co-op players against AI opponents.
----
 
 ## Image Gallery
 
@@ -59,12 +58,14 @@ The player begins the game by selecting and entering a mission, where they engag
 - Dynamic Enemy AI
 - Comic Book Style Graphics Shader
 - Randomly Generated Guns and Loot
-- Meaningful Progression Systems
+- Meaningful Progression Player Driven Systems
 
 ## Technologies Used
 - Unity
 - C#
 - Blender
+- Massive Loop SDK
+- Visual Studio
 
 ## My Role
 - Solo Developer 
