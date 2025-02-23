@@ -79,20 +79,22 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
 
 ## Development Log Video Series
 
-<div class="video-gallery">
-    <div class="video-gallery-item">
-        <iframe width="720" height="475" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>From Feb. 19th, 2025</p>
+<div class="video-carousel">
+    <button class="carousel-arrow left-arrow" onclick="prevVideo()">&#9665;</button>
+    <div class="video-container">
+        <iframe id="video-frame" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p id="video-caption">From Feb. 19th, 2025</p>
     </div>
-    <div class="video-gallery-item">
-        <iframe width="720" height="475" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>From Feb. 7, 2025</p>
-    </div>
-    <div class="video-gallery-item">
-        <iframe width="720" height="475" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>From Dec. 31, 2024</p>
+
+    <button class="carousel-arrow right-arrow" onclick="nextVideo()">&#9655;</button>
+
+    <div class="carousel-dots">
+        <span class="dot active" onclick="setVideo(0)"></span>
+        <span class="dot" onclick="setVideo(1)"></span>
+        <span class="dot" onclick="setVideo(2)"></span>
     </div>
 </div>
+
 
 
 ## Links
