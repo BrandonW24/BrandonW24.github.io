@@ -11,7 +11,10 @@ permalink: /resume/
 <div style="text-align: center;">
     
 
-    <a href="{{ '/assets/Brandon_Resume_2025.pdf' | relative_url }}" class="download-button" download>
+    <a href="{{ '/assets/Brandon_Resume_2025.pdf' | relative_url }}" 
+        id="resume-download" 
+        class="download-button" 
+        download>
         📄 Download My Resume
     </a>
 </div>

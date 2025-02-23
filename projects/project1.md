@@ -74,7 +74,7 @@ The player begins the game by selecting and entering a mission, where they engag
 - Level Designer
 
 ## Challenges & Solutions
-A large challenge on the onset of this game was tackling how to face multiplayer functionality. In my prior games, The Cursed Graveyard, Impiety, and Skul'Ras-- those were programmed in LUA, and had very specific methods that would enable developers to easily create multiplayer functionality. Unlike the previous PvE projects I have worked on, I chose to write this one in C#.
+A large challenge with the onset of this game was tackling how to face multiplayer functionality. In my prior games, The Cursed Graveyard, Impiety, and Skul'Ras-- those were programmed in LUA, and had very specific methods that would enable developers to easily create multiplayer functionality. Unlike the previous PvE projects I have worked on, I chose to write this one in C#.
 Since then we at Massive Loop have integrated a new shiny C# compiler that enables so much more creativity and dynamic code from developers. Setting up networking multiplayer structure is quite a bit different from how it is done in LUA. Switching from developing in LUA to C# was a bit of a challenge in its own right, but they are similar enough and I always love to re-learn programming languages. 
 
 ## Development Log Video Series

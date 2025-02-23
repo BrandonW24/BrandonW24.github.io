@@ -39,6 +39,34 @@
   </script>
 
 
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVH844J2B0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-MVH844J2B0', {
+        anonymize_ip: true,  // Optional: Hides user IPs for privacy
+        page_path: window.location.pathname
+      });
+    </script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+          var resumeButton = document.getElementById("resume-download");
+
+          if (resumeButton) {
+              resumeButton.addEventListener("click", function () {
+                  gtag('event', 'download', {
+                      'event_category': 'Resume',
+                      'event_label': 'Brandon_Resume_2025.pdf'
+                  });
+              });
+          }
+      });
+    </script>
+
+
     <script>
       function openLightbox(img) {
           document.getElementById("lightbox").style.display = "flex";
