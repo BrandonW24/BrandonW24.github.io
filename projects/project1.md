@@ -81,15 +81,15 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
 
 <div class="video-gallery">
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="475" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 19th, 2025</p>
     </div>
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="475" src="https://www.youtube.com/embed/Hgjjfns1nXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Feb. 7, 2025</p>
     </div>
     <div class="video-gallery-item">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="475" src="https://www.youtube.com/embed/dnzlw88Q8FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>From Dec. 31, 2024</p>
     </div>
 </div>
