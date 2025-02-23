@@ -19,28 +19,27 @@ than capable of sustaining upwards of 6 co-op players against AI opponents.
 
 ## Image Gallery
 
-<div class="gallery-carousel">
-    <button class="carousel-arrow left-arrow" onclick="prevImage()">&#10094;</button>
-    
-    <div class="gallery">
-        <div class="gallery-item active">
-            <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
-        </div>
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/project1_2.jpg" alt="Project 2" onclick="openLightbox(this)">
-        </div>
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/project1_3.jpg" alt="Project 3" onclick="openLightbox(this)">
-        </div>
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Action" onclick="openLightbox(this)">
-        </div>
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/project1_5.jpg" alt="Project 3" onclick="openLightbox(this)">
-        </div>
+<div class="gallery">
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
     </div>
-
-    <button class="carousel-arrow right-arrow" onclick="nextImage()">&#10095;</button>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_2.jpg" alt="Project 2" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_3.jpg" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Action" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_5.jpg" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
 </div>
 
 <!-- Lightbox Modal -->
