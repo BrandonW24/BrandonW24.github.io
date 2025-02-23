@@ -244,8 +244,8 @@ footer a:hover {
 }
 
 .video-gallery-item {
-    flex: 1 1 calc(33.333% - 40px);
-    max-width: calc(33.333% - 40px);
+    flex: 1 1 calc(50% - 40px); /* Makes videos larger */
+    max-width: calc(50% - 40px); /* Ensures they don't shrink too much */
     text-align: center;
 }
 
@@ -261,6 +261,15 @@ footer a:hover {
     font-size: 1rem;
     color: #333;
 }
+
+/* Make videos full-width on smaller screens */
+@media (max-width: 768px) {
+    .video-gallery-item {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
 
 /* Lightbox styles */
 .lightbox {
