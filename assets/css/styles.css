@@ -305,26 +305,32 @@ footer a:hover {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6); /* Slightly darker for better visibility */
     color: white;
     border: none;
-    font-size: 2rem;
-    padding: 10px;
+    font-size: 2.5rem; /* Slightly larger */
+    width: 60px; /* Increased size */
+    height: 60px; /* Keep it perfectly circular */
     cursor: pointer;
     border-radius: 50%;
-    transition: background 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s, transform 0.2s;
 }
 
 .carousel-arrow:hover {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
+    transform: translateY(-50%) scale(1.1); /* Slight scale effect */
 }
 
+/* Push arrows further out */
 .left-arrow {
-    left: -40px;
+    left: -70px; /* Move further left */
 }
 
 .right-arrow {
-    right: -40px;
+    right: -70px; /* Move further right */
 }
 
 /* Carousel Dots */
@@ -332,20 +338,23 @@ footer a:hover {
     margin-top: 15px;
     display: flex;
     gap: 10px;
+    justify-content: center;
 }
 
 .dot {
-    width: 12px;
-    height: 12px;
+    width: 14px; /* Slightly bigger dots */
+    height: 14px;
     background: gray;
     border-radius: 50%;
     cursor: pointer;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.2s;
 }
 
 .dot.active {
     background: black;
+    transform: scale(1.2); /* Slightly enlarge active dot */
 }
+
 
 
 
