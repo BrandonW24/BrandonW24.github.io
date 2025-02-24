@@ -3,7 +3,7 @@ layout: default
 title: Project Title 1
 ---
 
-## Gunfire Inc.
+## Delta-Quest
 
 
 ## Overview

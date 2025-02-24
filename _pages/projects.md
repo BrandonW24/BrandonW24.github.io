@@ -12,8 +12,8 @@ Here are some of my game development projects.
 <div class="project-grid">
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project1">
-            <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1">
-            <p>Gunfire Inc.</p>
+            <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Project 1">
+            <p>Delta-Quest</p>
         </a>
     </div>
     <div class="project">
@@ -31,6 +31,12 @@ Here are some of my game development projects.
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project4">
             <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Project 3">
+            <p>Momo's Space Diner</p>
+        </a>
+    </div>
+        <div class="project">
+        <a href="{{ site.baseurl }}/projects/project5">
+            <img src="{{ site.baseurl }}/assets/images/NightOps_1.jpg" alt="Project 3">
             <p>Momo's Space Diner</p>
         </a>
     </div>

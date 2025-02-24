@@ -28,8 +28,8 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 <div class="project-grid">
     <div class="project">
         <a href="{{ site.baseurl }}/projects/project1">
-            <img src="assets/images/project1.png" alt="Project 1">
-            <p>Gunfire Inc.</p>
+            <img src="assets/images/project1_4.jpg" alt="Project 1">
+            <p>Delta-Quest</p>
         </a>
     </div>
     <div class="project">
@@ -48,6 +48,12 @@ Here are some of the projects I've worked on. Click on a project to learn more:
         <a href="{{ site.baseurl }}/projects/project4">
             <img src="assets/images/Momo.png" alt="Project 4">
             <p>Momo's Space Diner</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/project5">
+            <img src="assets/images/NightOps_1.jpg" alt="Project 4">
+            <p>Neighborhood Night Ops</p>
         </a>
     </div>
     <!-- Add more projects as needed -->
