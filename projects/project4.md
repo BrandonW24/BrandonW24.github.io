@@ -45,53 +45,6 @@ A detailed description of the project, including its purpose, inspiration, and g
 
 ---
 
-## Scripts Overview
-
-The game is powered by a suite of **C# scripts** that handle everything from food preparation to multiplayer synchronization. Below are the key scripts and their functionalities:
-
-# **1. FoodQuest.cs**
-- **Purpose**: Manages food quests, including dish requirements, ingredient tracking, and quest completion.
-- **Key Features**:
-  - Randomly generates dishes and required ingredients.
-  - Tracks quest completion and awards points.
-  - Includes a timer for quest expiration.
-  - Synchronizes quests across multiplayer clients.
-
-# **2. FoodCut.cs**
-- **Purpose**: Handles food cutting and cooking mechanics.
-- **Key Features**:
-  - Allows players to chop ingredients and cook meals.
-  - Tracks cooking processes, including overcooking and burning.
-  - Synchronizes cutting and cooking across multiplayer clients.
-
-# **3. FruitSlicerGameManager.cs**
-- **Purpose**: Manages a fruit-slicing mini-game.
-- **Key Features**:
-  - Spawns fruits at random positions and trajectories.
-  - Tracks player scores and combos.
-  - Includes a lives system for added challenge.
-
-# **4. OverCookedGameManager.cs**
-- **Purpose**: Manages the overall game state, including quest spawning and score tracking.
-- **Key Features**:
-  - Continuously spawns food quests for players to complete.
-  - Adjusts game difficulty based on player performance.
-
-# **5. InstantiateObject.cs**
-- **Purpose**: Handles the spawning and lifecycle of food objects.
-- **Key Features**:
-  - Spawns food objects when players interact with spawners.
-  - Tracks and destroys objects when no longer needed.
-  - Synchronizes object spawning across multiplayer clients.
-
-# **6. DishText.cs**
-- **Purpose**: Manages the display of dish names and ingredients.
-- **Key Features**:
-  - Ensures text always faces the player for easy readability.
-  - Tracks player position to adjust text rotation dynamically.
-
----
-
 ## Development Highlights
 
 - **Multiplayer Synchronization**: Implemented real-time synchronization for all player actions, ensuring a seamless experience across VR, desktop, and WebGL platforms.
@@ -110,7 +63,8 @@ The game is powered by a suite of **C# scripts** that handle everything from foo
 
 ## My Role
 - Gameplay Programmer
-- Level Designer
+- Game Designer
+- Environment
 
 ## Challenges and Solutions
 
