@@ -21,10 +21,6 @@ than capable of sustaining upwards of 6 co-op players against AI opponents.
 
 <div class="gallery">
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project1.png" alt="Project 1" onclick="openLightbox(this)">
-        <p></p>
-    </div>
-    <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/project1_2.jpg" alt="Project 2" onclick="openLightbox(this)">
         <p></p>
     </div>
