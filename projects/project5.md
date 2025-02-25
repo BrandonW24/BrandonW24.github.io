@@ -6,8 +6,6 @@ title: Project Title 5
 ## Neighbor Hood Night Ops
 A cross-compatible VR and PC desktop Player Versus Player Tactical Shooter
 
-## Overview
-
 ## Goals
 The primary goal of this project was to create a fast-paced, engaging deathmatch game that combined the tight gunplay and competitive feel of games like *Counter-Strike* with unique mechanics and design elements tailored to our platform. I aimed to address the shortcomings of our previous deathmatch game, such as performance issues, lack of weapon variety, and level design flaws, while introducing new features that would enhance player engagement and enjoyment.
 ---
@@ -42,8 +40,6 @@ The inspiration for this game came from my love of competitive shooters, particu
 
 ---
 
-## Development Process
-
 ## Weapon Design
 One of the key areas I wanted to improve was weapon variety and gunplay. In our original deathmatch game, the weapon LUA script was robust and allowed for a wide range of weapon types, but we didn’t fully explore its potential. For this project, I created **nine unique weapons**, each with distinct characteristics and handling. This ensured that players could experiment with different playstyles and find weapons that suited their preferences. The emphasis was on **accuracy and tight gunplay**, making every shot feel impactful and rewarding.
 
@@ -63,11 +59,6 @@ Playtesting was a critical part of the development process. Early on, it became 
 - **Realistic Floorplans**: Inspired by real-world architecture, the houses are designed to feel authentic and functional.
 - **Tight Gunplay**: Emphasis on accuracy and precision, creating a satisfying combat experience.
 
----
-
-## My Role
-- Gameplay Programmer
-- Level Designer
 ---
 
 ## Challenges and Solutions
