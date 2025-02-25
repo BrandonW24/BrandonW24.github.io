@@ -4,7 +4,7 @@ title: Project Title 4
 ---
 
 ## Momo's Space Diner
-A fun casual cooking game to relax and enjoy with your friends!
+**Momo's Space Diner** is a multiplayer cooking game where players collaborate to prepare and serve dishes in a futuristic space diner. The game supports **cross-platform play**, allowing users in **VR**, **desktop**, and **WebGL** to cook together in real-time. Players can chop ingredients, cook meals, complete quests, and serve customers while managing the chaos of a bustling kitchen.
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
@@ -34,23 +34,97 @@ A detailed description of the project, including its purpose, inspiration, and g
     <img id="lightbox-img" class="lightbox-content">
 </div>
 
+---
+## Key Features
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- **Cross-Platform Multiplayer**: Seamless gameplay across VR, desktop, and WebGL platforms.
+- **Interactive Cooking Mechanics**: Chop, cook, and assemble dishes using intuitive controls.
+- **Dynamic Quest System**: Complete timed quests to serve customers and earn points.
+- **Real-Time Synchronization**: All player actions are synchronized across clients for a cohesive multiplayer experience.
+- **Customizable Difficulty**: Adjustable quest complexity and frequency to suit player preferences.
+
+---
+
+## Scripts Overview
+
+The game is powered by a suite of **C# scripts** that handle everything from food preparation to multiplayer synchronization. Below are the key scripts and their functionalities:
+
+# **1. FoodQuest.cs**
+- **Purpose**: Manages food quests, including dish requirements, ingredient tracking, and quest completion.
+- **Key Features**:
+  - Randomly generates dishes and required ingredients.
+  - Tracks quest completion and awards points.
+  - Includes a timer for quest expiration.
+  - Synchronizes quests across multiplayer clients.
+
+# **2. FoodCut.cs**
+- **Purpose**: Handles food cutting and cooking mechanics.
+- **Key Features**:
+  - Allows players to chop ingredients and cook meals.
+  - Tracks cooking processes, including overcooking and burning.
+  - Synchronizes cutting and cooking across multiplayer clients.
+
+# **3. FruitSlicerGameManager.cs**
+- **Purpose**: Manages a fruit-slicing mini-game.
+- **Key Features**:
+  - Spawns fruits at random positions and trajectories.
+  - Tracks player scores and combos.
+  - Includes a lives system for added challenge.
+
+# **4. OverCookedGameManager.cs**
+- **Purpose**: Manages the overall game state, including quest spawning and score tracking.
+- **Key Features**:
+  - Continuously spawns food quests for players to complete.
+  - Adjusts game difficulty based on player performance.
+
+# **5. InstantiateObject.cs**
+- **Purpose**: Handles the spawning and lifecycle of food objects.
+- **Key Features**:
+  - Spawns food objects when players interact with spawners.
+  - Tracks and destroys objects when no longer needed.
+  - Synchronizes object spawning across multiplayer clients.
+
+# **6. DishText.cs**
+- **Purpose**: Manages the display of dish names and ingredients.
+- **Key Features**:
+  - Ensures text always faces the player for easy readability.
+  - Tracks player position to adjust text rotation dynamically.
+
+---
+
+## Development Highlights
+
+- **Multiplayer Synchronization**: Implemented real-time synchronization for all player actions, ensuring a seamless experience across VR, desktop, and WebGL platforms.
+- **Dynamic Quest System**: Designed a quest system that generates random dishes and ingredients, keeping gameplay fresh and engaging.
+- **Interactive Cooking Mechanics**: Developed intuitive controls for chopping, cooking, and assembling dishes, making the gameplay accessible and fun.
+- **Cross-Platform Play**: Enabled players on different platforms to collaborate in the same kitchen, fostering a unique social gaming experience.
+
+---
 
 ## Technologies Used
-- Unity
-- C#
-- Blender
+- **Unity**: Game engine for development.
+- **C#**: Primary scripting language.
+- **Photon Unity Networking (PUN)**: Multiplayer synchronization.
+- **ML-SDK**: Integration for VR platforms (e.g., Oculus, SteamVR).
+- **WebGL**: Cross-platform support for browser-based play.
 
 ## My Role
 - Gameplay Programmer
 - Level Designer
 
-## Challenges & Solutions
-Describe any challenges you faced during development and how you overcame them.
+## Challenges and Solutions
+
+1. **Cross-Platform Synchronization**:
+   - *Challenge*: Ensuring smooth synchronization across VR, desktop, and WebGL platforms.
+   - *Solution*: Leveraged Photon Unity Networking (PUN) to handle real-time multiplayer synchronization.
+
+2. **Dynamic Quest Generation**:
+   - *Challenge*: Creating a quest system that felt fresh and engaging.
+   - *Solution*: Implemented a randomized dish and ingredient generation system with adjustable difficulty.
+
+3. **Interactive Cooking Mechanics**:
+   - *Challenge*: Making cooking mechanics intuitive and fun across different platforms.
+   - *Solution*: Designed context-sensitive controls and visual feedback for chopping, cooking, and assembling.
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/c6f1274e-396f-41de-ae29-ec2550f8cbee){:target="_blank" rel="noopener noreferrer"}
