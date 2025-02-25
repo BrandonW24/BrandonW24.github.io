@@ -37,7 +37,7 @@ Here are some of my game development projects.
         <div class="project">
         <a href="{{ site.baseurl }}/projects/project5">
             <img src="{{ site.baseurl }}/assets/images/NightOps_1.jpg" alt="Project 3">
-            <p>Momo's Space Diner</p>
+            <p>Neighborhood Night Ops</p>
         </a>
     </div>
 </div>
