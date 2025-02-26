@@ -27,31 +27,31 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 
 <div class="project-grid">
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/project1">
+        <a href="{{ site.baseurl }}/projects/Delta-Quest">
             <img src="assets/images/project1_4.jpg" alt="Project 1">
             <p>Delta-Quest</p>
         </a>
     </div>
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/project2">
+        <a href="{{ site.baseurl }}/projects/MiniPutt">
             <img src="assets/images/project2.jpg" alt="Project 2">
             <p>Miniputt Park VR & Desktop Game</p>
         </a>
     </div>
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/project3">
+        <a href="{{ site.baseurl }}/projects/Industrial-Go-Karts">
             <img src="assets/images/project3.jpg" alt="Project 3">
             <p>Industrial Go-Kart Racing</p>
         </a>
     </div>
         <div class="project">
-        <a href="{{ site.baseurl }}/projects/project4">
+        <a href="{{ site.baseurl }}/projects/Space-Diner">
             <img src="assets/images/Momo.png" alt="Project 4">
             <p>Momo's Space Diner</p>
         </a>
     </div>
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/project5">
+        <a href="{{ site.baseurl }}/projects/Night-Ops">
             <img src="assets/images/NightOps_1.jpg" alt="Project 4">
             <p>Neighborhood Night Ops</p>
         </a>
