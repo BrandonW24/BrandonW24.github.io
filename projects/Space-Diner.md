@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 4
+title: Momo's Space Diner
 ---
 
 ## Momo's Space Diner
@@ -18,11 +18,39 @@ A detailed description of the project, including its purpose, inspiration, and g
         <p></p>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Project 2" onclick="openLightbox(this)">
+        <img src="{{ site.baseurl }}/assets/images/SD_1.png" alt="Project 2" onclick="openLightbox(this)">
         <p></p>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Project 3" onclick="openLightbox(this)">
+        <img src="{{ site.baseurl }}/assets/images/SD_2.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_3.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_4.png" alt="Project 2" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_5.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_6.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_7.png" alt="Project 2" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_8.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/SD_9.png" alt="Project 3" onclick="openLightbox(this)">
         <p></p>
     </div>
 </div>

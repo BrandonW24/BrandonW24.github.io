@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 3
+title: Industrial Go-Karts
 ---
 
 ## Industrial Go-Kart Racing Game

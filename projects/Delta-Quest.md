@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 1
+title: Delta-Quest
 ---
 
 ## Delta-Quest

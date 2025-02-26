@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 2
+title: MiniPutt
 ---
 
 ## Miniputt Park | Castle
@@ -45,6 +45,7 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
 - Intuitive VR & PC Desktop Control Scheme
 - A fun spin on the normal mini-golf parr score system
 - Music Chooser & Audio Visualization
+- Dynamically scalable golf clubs for VR users of all heights
 
 ## Technologies Used
 - Unity

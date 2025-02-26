@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Title 5
+title: Night Ops
 ---
 
 ## Neighbor Hood Night Ops
@@ -17,6 +17,28 @@ The primary goal of this project was to create a fast-paced, engaging deathmatch
         <img src="{{ site.baseurl }}/assets/images/NightOps_1.jpg" alt="Project 1" onclick="openLightbox(this)">
         <p></p>
     </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/NightOps_2.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/NightOps_3.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/NightOps_4.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/NightOps_5.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/NightOps_6.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+    
+    
 </div>
 
 
