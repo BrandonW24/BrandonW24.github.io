@@ -3,27 +3,33 @@ layout: default
 title: Project Title 2
 ---
 
-## Miniputt Park VR & Desktop Game
+## Miniputt Park | Castle
 A mutliplatform minigolfing game where players compete against each other and the clock!
 
 ## Overview
-A detailed description of the project, including its purpose, inspiration, and goals.
+
+This game was originally programmed in LUA with golf clubs that had simple update functions that would check how close the head of the player's golf club was to their most recently spawned ball. It was designed with only a driving range in mind. I would then go onto take these golf clubs, design a mini-golfing course, make a few adjustments to the golf clubs functionality and left it alone for about a year and half. That was until we updated Massive Loop and outfited it with a new C# script compiler. I wanted to explore our limitations with our system by converting older LUA based worlds into new shiny C# worlds as a means to show off what can be done inside of Massive Loop. 
+
+This project took heavy inspirations from a ton of mini-golfing flash games that I played when I was a kid. I had programmed the desktop mechanics in such a way to make it feel reminiscent of those old titles. Another inspiration of mine for this project was Wii-Golfing! 
+
+The ultimate goal for this project was to create a fun and engaging set of arcadey golfing mechanics where others can share the fun and hopefully experience a little bit of that joy I had experienced when I played games like these all those years ago.
+
 ---
 
 ## Image Gallery
 
 <div class="gallery">
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project1.jpg" alt="Project 1" onclick="openLightbox(this)">
-        <p>Image 1</p>
+        <img src="{{ site.baseurl }}/assets/images/golf_1.png" alt="Project 1" onclick="openLightbox(this)">
+        <p></p>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project2.jpg" alt="Project 2" onclick="openLightbox(this)">
-        <p>Image 2</p>
+        <img src="{{ site.baseurl }}/assets/images/golf_2.png" alt="Project 2" onclick="openLightbox(this)">
+        <p></p>
     </div>
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3" onclick="openLightbox(this)">
-        <p>Image 3</p>
+        <img src="{{ site.baseurl }}/assets/images/golf_3.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
     </div>
 </div>
 
@@ -36,18 +42,20 @@ A detailed description of the project, including its purpose, inspiration, and g
 
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Intuitive VR & PC Desktop Control Scheme
+- A fun spin on the normal mini-golf parr score system
+- Music Chooser & Audio Visualization
 
 ## Technologies Used
 - Unity
 - C#
 - Blender
+- Massive Loop SDK
 
 ## My Role
 - Gameplay Programmer
 - Level Designer
+- 3d modeler
 
 ## Challenges & Solutions
 Describe any challenges you faced during development and how you overcame them.
