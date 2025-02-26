@@ -49,10 +49,6 @@ A detailed description of the project, including its purpose, inspiration, and g
         <img src="{{ site.baseurl }}/assets/images/SD_8.png" alt="Project 3" onclick="openLightbox(this)">
         <p></p>
     </div>
-    <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/SD_9.png" alt="Project 3" onclick="openLightbox(this)">
-        <p></p>
-    </div>
 </div>
 
 
