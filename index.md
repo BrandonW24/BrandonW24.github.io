@@ -38,12 +38,6 @@ Here are some of the projects I've worked on. Click on a project to learn more:
             <p>Miniputt Park VR & Desktop Game</p>
         </a>
     </div>
-[comment]:<>    <div class="project">
-[comment]:<>        <a href="{{ site.baseurl }}/projects/Industrial-Go-Karts">
-[comment]:<>            <img src="assets/images/project3.jpg" alt="Project 3">
-[comment]:<>            <p>Industrial Go-Kart Racing</p>
-[comment]:<>        </a>
-[comment]:<>    </div>
         <div class="project">
         <a href="{{ site.baseurl }}/projects/Space-Diner">
             <img src="assets/images/Momo.png" alt="Project 4">
