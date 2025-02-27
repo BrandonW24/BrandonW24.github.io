@@ -40,10 +40,10 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
     <img id="lightbox-img" class="lightbox-content">
 </div>
 
-## Video
+## Brief Video Demonstration 
 <div class="video-container">
     <iframe id="video-frame" src="https://www.youtube.com/embed/0dKKhkhYFnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p id="video-caption">Brief Demonstration</p>
+    <p id="video-caption"></p>
 </div>
 
 ---
