@@ -62,10 +62,12 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 
 ## Contact Me
 
-If you'd like to get in touch, feel free to reach out via:
+If you'd like to get in touch, feel free to contact me!
 
-- **Email:** [brandon.f.withington@gmail.com](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
-- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
-- **GitHub:** [My GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fas fa-envelope" style="color: black;"></i> Send me an Email!](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-linkedin" style="color: black;"></i> My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-github" style="color: black;"></i> My GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
 
 ---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
