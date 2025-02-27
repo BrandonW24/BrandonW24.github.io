@@ -1,43 +1,30 @@
-let currentVideoIndex = 0;
-const dots = document.querySelectorAll('.carousel-dots .dot');
-const videoFrame = document.getElementById('video-frame');
-const videoCaption = document.getElementById('video-caption');
+const videos = [
+    { src: "https://www.youtube.com/embed/3-vVpFSisxE", caption: "From Feb. 19th, 2025" },
+    { src: "https://www.youtube.com/embed/Hgjjfns1nXw", caption: "From Feb. 7, 2025" },
+    { src: "https://www.youtube.com/embed/dnzlw88Q8FI", caption: "From Dec. 31, 2024" }
+];
 
-function updateVideo(index) {
-    // Update the iframe src and caption
-    const dot = dots[index];
-    videoFrame.src = dot.getAttribute('data-video');
-    videoCaption.textContent = dot.getAttribute('data-caption');
+let currentIndex = 0;
 
-    // Update the active dot
-    dots.forEach((dot, i) => {
-        dot.classList.toggle('active', i === index);
+function updateVideo() {
+    document.getElementById("video-frame").src = videos[currentIndex].src;
+    document.getElementById("video-caption").textContent = videos[currentIndex].caption;
+    document.querySelectorAll(".dot").forEach((dot, index) => {
+        dot.classList.toggle("active", index === currentIndex);
     });
-
-    currentVideoIndex = index;
 }
 
 function prevVideo() {
-    let newIndex = currentVideoIndex - 1;
-    if (newIndex < 0) {
-        newIndex = dots.length - 1; // Loop to the last video
-    }
-    updateVideo(newIndex);
+    currentIndex = (currentIndex - 1 + videos.length) % videos.length;
+    updateVideo();
 }
 
 function nextVideo() {
-    let newIndex = currentVideoIndex + 1;
-    if (newIndex >= dots.length) {
-        newIndex = 0; // Loop to the first video
-    }
-    updateVideo(newIndex);
+    currentIndex = (currentIndex + 1) % videos.length;
+    updateVideo();
 }
 
 function setVideo(index) {
-    if (index >= 0 && index < dots.length) {
-        updateVideo(index);
-    }
+    currentIndex = index;
+    updateVideo();
 }
-
-// Initialize the first video
-updateVideo(0);
