@@ -359,7 +359,7 @@ footer a:hover {
 header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow to the header */
     padding: 10px 20px; /* Adds some padding for better spacing */
-    background-color: #fff; /* Ensures the header has a solid background */
+    background-color: #111111; /* Ensures the header has a solid background */
     position: relative; /* Ensures the shadow is visible */
     z-index: 10; /* Keeps the header above other content */
 }
