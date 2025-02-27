@@ -61,8 +61,8 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 If you'd like to get in touch, feel free to contact me!
 
 - [<i class="fas fa-envelope" style="color: black;"></i> Via Email](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
-- [<i class="fab fa-linkedin" style="color: black;"></i>Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
-- [<i class="fab fa-github" style="color: black;"></i>GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-linkedin" style="color: black;"></i> Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-github" style="color: black;"></i> GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
