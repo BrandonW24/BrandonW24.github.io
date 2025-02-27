@@ -93,13 +93,11 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
         <iframe id="video-frame" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p id="video-caption">From Feb. 19th, 2025</p>
     </div>
-
     <button class="carousel-arrow right-arrow" onclick="nextVideo()">&#9655;</button>
-
     <div class="carousel-dots">
-        <span class="dot active" onclick="setVideo(0)"></span>
-        <span class="dot" onclick="setVideo(1)"></span>
-        <span class="dot" onclick="setVideo(2)"></span>
+        <span class="dot active" data-video="https://www.youtube.com/embed/3-vVpFSisxE" data-caption="From Feb. 19th, 2025" onclick="setVideo(0)"></span>
+        <span class="dot" data-video="https://www.youtube.com/embed/VIDEO_ID_2" data-caption="Caption for Video 2" onclick="setVideo(1)"></span>
+        <span class="dot" data-video="https://www.youtube.com/embed/VIDEO_ID_3" data-caption="Caption for Video 3" onclick="setVideo(2)"></span>
     </div>
 </div>
 
