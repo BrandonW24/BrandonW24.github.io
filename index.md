@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-## About Me
 <div class="gallery">
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/Me.jpg" alt="Project 2" onclick="openLightbox(this)">
         <p></p>
     </div>
 </div>
+
+## About Me
 
 Hi there, I’m Brandon Withington! I am an Extended Reality (XR) Software Engineer with over 3 years of experience developing immersive standalone game worlds and interactive experiences with the Unity engine. I am proficient in object-oriented programming languages including C# and Python, I have a deep passion for learning and innovation in game development and virtual reality. I am known for my self-motivation, enthusiasm, and dedication. I strive to craft compelling gameplay and unforgettable moments through creative solutions and story telling through the medium of code!
 
@@ -70,9 +71,9 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 
 If you'd like to get in touch, feel free to contact me!
 
-- [<i class="fas fa-envelope" style="color: black;"></i> Send me an Email!](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
-- [<i class="fab fa-linkedin" style="color: black;"></i> My Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
-- [<i class="fab fa-github" style="color: black;"></i> My GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fas fa-envelope" style="color: black;"></i> Via Email](mailto:brandon.f.withington@gmail.com){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-linkedin" style="color: black;"></i>Linkedin Profile](https://www.linkedin.com/in/brandon-withington/){:target="_blank" rel="noopener noreferrer"}
+- [<i class="fab fa-github" style="color: black;"></i>GitHub Profile](https://github.com/BrandonW24){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
