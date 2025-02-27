@@ -58,9 +58,6 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
 - Level Designer
 - 3d modeler
 
-## Challenges & Solutions
-Describe any challenges you faced during development and how you overcame them.
-
 ## Links
 - [Play the Game](https://massiveloop.com/world/bef7df03-9694-4250-b87b-896205d9d5c7){:target="_blank" rel="noopener noreferrer"}
 - [View on GitHub](https://gitfront.io/r/BrandonW24/bR6R7Q4emNvo/Brandons-MassiveLoop-CSharp-Scripts/){:target="_blank" rel="noopener noreferrer"}
