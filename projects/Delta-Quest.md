@@ -36,6 +36,20 @@ than capable of sustaining upwards of 6 co-op players against AI opponents.
         <img src="{{ site.baseurl }}/assets/images/project1_5.jpg" alt="Project 3" onclick="openLightbox(this)">
         <p></p>
     </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_6.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+     </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_7.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+     </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/project1_8.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>  
 </div>
 
 <!-- Lightbox Modal -->
