@@ -4,7 +4,7 @@ title: Momo's Space Diner
 ---
 
 ## Momo's Space Diner
-**Momo's Space Diner** is a multiplayer cooking game where players collaborate to prepare and serve dishes in a futuristic space diner. The game supports **cross-platform play**, allowing users in **VR**, **desktop**, and **WebGL** to cook together in real-time. Players can chop ingredients, cook meals, complete quests, and serve customers while managing the chaos of a bustling kitchen.
+**Momo's Space Diner** is a multiplayer cooking game where players collaborate to prepare and serve dishes in a futuristic space diner. The game supports **cross-platform play**, allowing users in **VR**, and **desktop** mode to cook together in real-time. Players can chop ingredients, cook meals, complete quests, and serve customers while managing the chaos of a bustling kitchen.
 
 ## Overview
 A detailed description of the project, including its purpose, inspiration, and goals.
@@ -83,7 +83,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 - **C#**: Primary scripting language.
 - **Photon Unity Networking (PUN)**: Multiplayer synchronization.
 - **ML-SDK**: Integration for VR platforms (e.g., Oculus, SteamVR).
-- **WebGL**: Cross-platform support for browser-based play.
+- 
 
 ## My Role
 - Gameplay Programmer
@@ -93,7 +93,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 ## Challenges and Solutions
 
 1. **Cross-Platform Synchronization**:
-   - *Challenge*: Ensuring smooth synchronization across VR, desktop, and WebGL platforms.
+   - *Challenge*: Ensuring smooth synchronization across VR, and desktop platforms.
    - *Solution*: Leveraged Photon Unity Networking (PUN) to handle real-time multiplayer synchronization.
 
 2. **Dynamic Quest Generation**:
