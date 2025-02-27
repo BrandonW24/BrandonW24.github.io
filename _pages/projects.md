@@ -22,12 +22,12 @@ Here are some of my game development projects.
             <p>Miniputt Park VR & Desktop Game</p>
         </a>
     </div>
-    <div class="project">
-        <a href="{{ site.baseurl }}/projects/Industrial-Go-Karts">
-            <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3">
-            <p>Industrial Go-Karts</p>
-        </a>
-    </div>
+ [comment]:<>       <div class="project">
+  [comment]:<>      <a href="{{ site.baseurl }}/projects/Industrial-Go-Karts">
+  [comment]:<>          <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3">
+  [comment]:<>          <p>Industrial Go-Karts</p>
+  [comment]:<>      </a>
+  [comment]:<>        </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/Space-Diner">
             <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Project 3">
