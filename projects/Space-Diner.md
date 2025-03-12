@@ -83,7 +83,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 - **C#**: Primary scripting language.
 - **Photon Unity Networking (PUN)**: Multiplayer synchronization.
 - **ML-SDK**: Integration for VR platforms (e.g., Oculus, SteamVR).
-- 
+
 
 ## My Role
 - Gameplay Programmer
