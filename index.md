@@ -9,6 +9,8 @@ title: Home
 
 Hi there, I’m Brandon Withington! I am an Extended Reality (XR) Software Engineer with over 3 years of experience developing immersive standalone game worlds and interactive experiences with the Unity engine. I am proficient in object-oriented programming languages including C# and Python, I have a deep passion for learning and innovation in game development and virtual reality. I am known for my self-motivation, enthusiasm, and dedication. I strive to craft compelling gameplay and unforgettable moments!
 
+Please check out my [YouTube](https://www.youtube.com/@_Brandev) channel to see how my projects evolve.
+
 ---
 
 ## Skills
