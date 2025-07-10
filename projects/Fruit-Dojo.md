@@ -7,18 +7,18 @@ title: Fruit Dojo
 **The fruit dojo** is a multiplayer hack and slash VR game where players collaborate to survive waves of fruits and vegetables that are being thrown at them. Be careful of the bombs! The game supports **cross-platform play**, allowing users in **VR**, and **desktop** mode to slash fruits in half together in real-time.
 
 ## Overview
-Purpose, Inspiration, and goals.
+**Purpose, Inspiration, and Goals**
 ---
 
-### **Inspiration**
+**Inspiration**
 
-**Fruit Dojo** was born from a love of fast-paced, physics-driven VR experiences like *Beat Saber* and *Fruit Ninja*, combined with the chaotic fun of multiplayer collaboration. I wanted to create a game where players could step into a vibrant dojo, wield virtual blades, and slice through waves of flying fruits with friends. Regardless of whether they were playing in VR or on desktop. The addition of bombs and special fruits (like explosive pineapples or multiplier-boosting pumpkins) added a layer of strategy, ensuring the game felt fresh with every session.
+**Fruit Dojo** was born from a love of fast-paced, physics-driven VR experiences like *Beat Saber* and *Fruit Ninja*, combined with the chaotic fun of multiplayer collaboration. I wanted to create a game where players could step into a vibrant dojo, wield virtual blades, and slice through waves of flying fruits with friends. Regardless of whether they were playing in VR or on desktop. The addition of bombs and special fruits (like explosive bomb-fruit or multiplier-boosting pumpkins) added a layer of strategy, ensuring the game felt fresh with every session.
 
-### **Purpose**
+**Purpose**
 
 The goal was to bridge the gap between VR and traditional gaming by designing a **cross-platform** experience that emphasized teamwork, precision, and fun absurdity. By supporting both VR and desktop players, I aimed to make the game accessible to a wider audience while preserving the visceral satisfaction of slicing a watermelon in half with a virtual katana. The dynamic difficulty system and unlockable weapons were added to reward skill and keep players engaged long-term. I felt that our metaverse at Massive Loop needed a game like this. 
 
-### **Goals**
+**Goals**
 
 1. **Immersion**: Make every slash feel impactful with haptic feedback, realistic fruit physics, and synchronized multiplayer actions.
 2. **Accessibility**: Ensure non-VR players could enjoy the game with intuitive mouse/swipe controls and screen-shake effects.
@@ -66,7 +66,7 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
 
 ## Challenges and Solutions
 
-1. #### **Accurate Fruit Physics & Cutting Detection**
+1. **Accurate Fruit Physics & Cutting Detection**
 
    - **Challenge**: Ensuring fruits react realistically when sliced and detecting precise cuts.
 
@@ -78,7 +78,7 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
 
        
 
-2. #### **Performance Optimization for VR**
+2. **Performance Optimization for VR**
 
    - **Challenge**: Maintaining high FPS in VR with multiple sliced fruit pieces.
 
@@ -90,7 +90,7 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
 
        
 
-3. #### **Engaging Progression System**
+3. **Engaging Progression System**
 
    * **Challenge**: Preventing repetitive gameplay after prolonged play.
 
@@ -102,7 +102,7 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
 
        
 
-   #### 4**. Multiplayer Leaderboards & Ghosts**
+   4**. Multiplayer Leaderboards & Ghosts**
 
    - **Challenge**: Encouraging competition without real-time multiplayer complexity.
    - **Solution**:
@@ -110,7 +110,7 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
 
    
 
-   #### 5**. Accessibility for Non-VR Players**
+   5**. Accessibility for Non-VR Players**
 
    - **Challenge**: Making the game enjoyable for desktop users without VR immersion.
    - **Solution**:
