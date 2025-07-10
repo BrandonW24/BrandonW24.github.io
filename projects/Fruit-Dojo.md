@@ -7,6 +7,18 @@ title: Fruit Dojo
 **The fruit dojo** is a multiplayer hack and slash VR game where players collaborate to survive waves of fruits and vegetables that are being thrown at them. Be careful of the bombs! The game supports **cross-platform play**, allowing users in **VR**, and **desktop** mode to slash fruits in half together in real-time.
 
 ## Overview
+## Gameplay Trailer  
+<div class="video-container">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/FB5wD8z3NSU" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 **Purpose, Inspiration, and Goals**
 ---
 
@@ -27,17 +39,7 @@ The goal was to bridge the gap between VR and traditional gaming by designing a 
 
 At its core, **Fruit Dojo** is about having fun cutting fruit in half with or without friends. Where players can laugh at mistimed swings, cheer for last second saves, and chase high scores together.
 
-## Gameplay Trailer  
-<div class="video-container">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/FB5wD8z3NSU" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+
 
 
 ---
