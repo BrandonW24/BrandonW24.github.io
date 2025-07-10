@@ -103,6 +103,21 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
 
 
 
+### Inventory Update!
+
+<div class="video-container">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/yy5lEVcmgrQ" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/efbed9c0-c0c8-4ecf-b722-6a3f0a2e1d4e){:target="_blank" rel="noopener noreferrer"}
