@@ -21,7 +21,7 @@ title: Massive Loop Bowling Club
 
 
 
-### **Environment & Gameplay**  
+## **Environment & Gameplay**  
 
 The game features a fully-realized virtual bowling alley with:  
 
@@ -31,7 +31,7 @@ The game features a fully-realized virtual bowling alley with:
 - Team-based play with customizable ball colors and materials  
 - Dynamic score tracking with leaderboards  
 
-### **Key Gameplay Mechanics**  
+## **Key Gameplay Mechanics**  
 
 - **VR Throwing**: Natural throwing mechanics with velocity tracking and angle compensation  
 - **Desktop Charging**: Power meter for precise desktop throws  
