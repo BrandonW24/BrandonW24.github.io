@@ -40,6 +40,12 @@ Here are some of my game development projects.
             <p>Fruit Ninja</p>
         </a>
     </div>
+    <div class="project">
+        <a href="{{site.baseurl }}/projects/ML-BowlingClub">
+        <img src="{{site.baseurl }}/assets/images/BowlingClub.png" alt="Project 6">
+        <p>Massive Loop Bowling Club</p>
+        </a>
+    </div>
 </div>
 
 

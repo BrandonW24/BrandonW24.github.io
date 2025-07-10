@@ -57,6 +57,12 @@ Here are some of the projects I've worked on. Click on a project to learn more:
             <p>Fruit Dojo</p>
         </a>
     </div>
+        <div class="project">
+        <a href="{{ site.baseurl }}/projects/ML-BowlingClub">
+            <img src="assets/images/BowlingClub.png" alt="Project 5">
+            <p>Massive Loop Bowling Club</p>
+        </a>
+    </div>
     <!-- Add more projects as needed -->
 </div>
 
