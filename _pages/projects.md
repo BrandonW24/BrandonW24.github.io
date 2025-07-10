@@ -34,7 +34,14 @@ Here are some of my game development projects.
             <p>Neighborhood Night Ops</p>
         </a>
     </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Fruit-Dojo">
+            <img src="{{ site.baseurl }}/assets/images/FruitNinja.png" alt="Project 5">
+            <p>Fruit Ninja</p>
+        </a>
+    </div>
 </div>
+
 
 
 
