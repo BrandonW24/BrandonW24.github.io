@@ -90,8 +90,8 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
 <div class="video-carousel">
     <button class="carousel-arrow left-arrow" onclick="prevVideo()">&#9665;</button>
     <div class="video-container">
-        <iframe id="video-frame" src="https://www.youtube.com/embed/3-vVpFSisxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p id="video-caption">From Feb. 19th, 2025</p>
+        <iframe id="video-frame" src="https://www.youtube.com/embed/xayWGrg51_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p id="video-caption">From July. 10th, 2025</p>
     </div>
     <button class="carousel-arrow right-arrow" onclick="nextVideo()">&#9655;</button>
     <div class="carousel-dots">
@@ -100,6 +100,7 @@ Since then we at Massive Loop have integrated a new shiny C# compiler that enabl
         <span class="dot" onclick="setVideo(2)"></span>
     </div>
 </div>
+
 
 
 

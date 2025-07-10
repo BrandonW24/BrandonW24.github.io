@@ -61,7 +61,7 @@ A detailed description of the project, including its purpose, inspiration, and g
 ---
 ## Key Features
 
-- **Cross-Platform Multiplayer**: Seamless gameplay across VR, desktop, and WebGL platforms.
+- **Cross-Platform Multiplayer**: Seamless gameplay across VR, and desktop platforms.
 - **Interactive Cooking Mechanics**: Chop, cook, and assemble dishes using intuitive controls.
 - **Dynamic Quest System**: Complete timed quests to serve customers and earn points.
 - **Real-Time Synchronization**: All player actions are synchronized across clients for a cohesive multiplayer experience.

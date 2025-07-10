@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     <div class="project">
         <a href="{{ site.baseurl }}/projects/Delta-Quest">
             <img src="assets/images/project1_4.jpg" alt="Project 1">
-            <p>Delta-Quest</p>
+            <p>Deltascape</p>
         </a>
     </div>
     <div class="project">
@@ -51,8 +51,15 @@ Here are some of the projects I've worked on. Click on a project to learn more:
             <p>Neighborhood Night Ops</p>
         </a>
     </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Fruit-Dojo">
+            <img src="assets/images/FruitNinja.png" alt="Project 5">
+            <p>Fruit Dojo</p>
+        </a>
+    </div>
     <!-- Add more projects as needed -->
 </div>
+
 
 ---
 
