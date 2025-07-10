@@ -112,5 +112,5 @@ The game features a fully-realized virtual bowling alley with:
    - *Solution*: Queue-based turn system with frame tracking and network-synced scoreboards  
 
 ## Links
-- [Play the Game]([Massive Loop]([Massive Loop](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7)){:target="_blank" rel="noopener noreferrer"}
+- [Play the Game]((https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7)){:target="_blank" rel="noopener noreferrer"}
 - [View on GitHub](https://gitfront.io/r/BrandonW24/iXvRRiq2iycM/Momo-Space-Diner-Code-Repo/){:target="_blank" rel="noopener noreferrer"}

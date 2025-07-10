@@ -122,5 +122,5 @@ At its core, **Fruit Dojo** is about having fun cutting fruit in half with or wi
    
 
 ## Links
-- [Play the Game]([Massive Loop](https://massiveloop.com/world/bc84790d-b4ce-472c-8eb0-fc911ca4db87)){:target="_blank" rel="noopener noreferrer"}
+- [Play the Game]((https://massiveloop.com/world/bc84790d-b4ce-472c-8eb0-fc911ca4db87)){:target="_blank" rel="noopener noreferrer"}
 - [View on GitHub](https://gitfront.io/r/BrandonW24/iXvRRiq2iycM/Momo-Space-Diner-Code-Repo/){:target="_blank" rel="noopener noreferrer"}
