@@ -7,17 +7,18 @@ title: Massive Loop Bowling Club
 **ML Bowling Club** is a multiplayer VR bowling game where players compete in a virtual bowling alley, complete with realistic physics, team-based gameplay, and synchronized multiplayer mechanics. The game supports **cross-platform play**, allowing users in **VR** and **desktop** modes to bowl together in real-time.
 
 ## Overview
-## Gameplay Trailer  
+## Gameplay Showcase
 <div class="video-container">
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/K8aAykz_R2Y" 
+    src="https://www.youtube.com/watch?v=-7k-90HuPZ8" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>
+
 
 
 
@@ -48,7 +49,7 @@ The game features a fully-realized virtual bowling alley with:
 * **Cross-Platform Multiplayer**: Seamless gameplay across VR and desktop platforms
 
 - **Physics-Based Bowling**: Realistic ball and pin physics with proper mass and forces
-- **Dynamic Scoring System**: Automatic pin detection and score tracking with frame-by-frame progression
+- **Realistic Scoring System**: Automatic pin detection and score tracking with frame-by-frame, throw-by-throw, pin-by-pin progression
 - **Visual Feedback**: 
   - Trajectory prediction line
   - Power meter for charged throws  

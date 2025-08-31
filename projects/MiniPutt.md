@@ -20,7 +20,7 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
 
 <div class="gallery">
     <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/golf_1.png" alt="Project 1" onclick="openLightbox(this)">
+        <img src="{{ site.baseurl }}/assets/images/GolfEnvironment_2.png" alt="Project 1" onclick="openLightbox(this)">
         <p></p>
     </div>
     <div class="gallery-item">
@@ -29,6 +29,22 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
     </div>
     <div class="gallery-item">
         <img src="{{ site.baseurl }}/assets/images/golf_3.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/Golf_Environment_6_1.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/Golf_Environment_3.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/Golf_Environment_4_1.png" alt="Project 3" onclick="openLightbox(this)">
+        <p></p>
+    </div>
+        <div class="gallery-item">
+        <img src="{{ site.baseurl }}/assets/images/Golf_Environment_1.png" alt="Project 3" onclick="openLightbox(this)">
         <p></p>
     </div>
 </div>
