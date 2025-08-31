@@ -35,8 +35,8 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/MiniPutt">
-            <img src="assets/images/project2.jpg" alt="Project 2">
-            <p>Miniputt Park VR & Desktop Game</p>
+            <img src="assets/images/GolfEnvironment_2.jpg" alt="Project 2">
+            <p>Miniputt Park : Castle</p>
         </a>
     </div>
         <div class="project">

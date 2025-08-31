@@ -36,7 +36,7 @@ The ultimate goal for this project was to create a fun and engaging set of arcad
         <p></p>
     </div>
         <div class="gallery-item">
-        <img src="{{ site.baseurl }}/assets/images/Golf_Environment_3.png" alt="Project 3" onclick="openLightbox(this)">
+        <img src="{{ site.baseurl }}/assets/images/GolfEnvironment_3.png" alt="Project 3" onclick="openLightbox(this)">
         <p></p>
     </div>
         <div class="gallery-item">
