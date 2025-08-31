@@ -12,7 +12,7 @@ title: Massive Loop Bowling Club
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=-7k-90HuPZ8" 
+    src="https://www.youtube.com/embed/-7k-90HuPZ8" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -49,7 +49,7 @@ The game features a fully-realized virtual bowling alley with:
 * **Cross-Platform Multiplayer**: Seamless gameplay across VR and desktop platforms
 
 - **Physics-Based Bowling**: Realistic ball and pin physics with proper mass and forces
-- **Realistic Scoring System**: Automatic pin detection and score tracking with frame-by-frame, throw-by-throw, pin-by-pin progression
+- **Dynamic Scoring System**: Automatic pin detection and score tracking with frame-by-frame progression
 - **Visual Feedback**: 
   - Trajectory prediction line
   - Power meter for charged throws  
