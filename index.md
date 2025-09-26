@@ -41,7 +41,7 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     </div>
         <div class="project">
         <a href="{{ site.baseurl }}/projects/Space-Diner">
-            <img src="assets/images/Momo.png" alt="Project 4">
+            <img src="assets/images/Momo.png" alt="Project 3">
             <p>Momo's Space Diner</p>
         </a>
     </div>
@@ -59,10 +59,25 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     </div>
         <div class="project">
         <a href="{{ site.baseurl }}/projects/ML-BowlingClub">
-            <img src="assets/images/BowlingClub.png" alt="Project 5">
+            <img src="assets/images/BowlingClub.png" alt="Project 6">
             <p>Massive Loop Bowling Club</p>
         </a>
     </div>
+    
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Omni-Pen">
+            <img src="assets/images/Omni-Pen.png" alt="Project 7">
+            <p>Deltascape</p>
+        </a>
+    </div>
+    
+        <div class="project">
+        <a href="{{ site.baseurl }}/projects/ML_Museum">
+            <img src="assets/images/ML_Museum.png" alt="Project 8">
+            <p>Deltascape</p>
+        </a>
+    </div>
+    
     <!-- Add more projects as needed -->
 </div>
 
