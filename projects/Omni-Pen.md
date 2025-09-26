@@ -12,12 +12,13 @@ The **Omni Pen!**
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/-7k-90HuPZ8" 
+    src="https://www.youtube.com/embed/z5JYf632NzA" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>
+
 
 
 ## **Key Gameplay Mechanics**  
@@ -47,37 +48,22 @@ The **Omni Pen!**
 
 ## Challenges and Solutions
 
-1. **Realistic Bowling Physics**  
+1. **Multiplayer Synchronization**  
 
-   - *Challenge*: Making the ball behave like a real bowling ball with proper mass, friction, and hook potential  
+   - *Challenge*:
 
-   - *Solution*: Fine-tuned Rigidbody properties and implemented velocity buffering for accurate throw detection  
+   - *Solution*:
 
-2. **Precise Pin Detection**  
+2. **Cross-Platform Controls**  
 
-   - *Challenge*: Reliably detecting when pins are knocked over without false positives  
+   - *Challenge*:
 
-   - *Solution*: Multi-threshold system checking angle, velocity, position change, and time-based cooldowns  
+   - *Solution*:  
 
-3. **Multiplayer Synchronization**  
+3. **Dynamic Color Management System**  
+   - *Challenge*:
 
-   - *Challenge*: Keeping all clients in sync with ball positions, pin states, and scores  
-
-   - *Solution*: Networked events for all major actions (throws, resets, scoring) with master client authority  
-
-4. **Cross-Platform Controls**  
-
-   - *Challenge*: Creating intuitive controls for both VR (motion) and desktop (mouse/keyboard)  
-
-   - *Solution*: 
-     - VR: Natural throwing with velocity tracking  
-       - Desktop: Charge-and-release mechanics with trajectory preview  
-
-5. **Dynamic Game State Management**  
-
-   - *Challenge*: Managing player turns, frames, and scores across multiple players  
-
-   - *Solution*: Queue-based turn system with frame tracking and network-synced scoreboards  
+   - *Solution*:
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7){:target="_blank" rel="noopener noreferrer"}

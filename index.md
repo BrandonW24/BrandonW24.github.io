@@ -67,14 +67,14 @@ Here are some of the projects I've worked on. Click on a project to learn more:
     <div class="project">
         <a href="{{ site.baseurl }}/projects/Omni-Pen">
             <img src="assets/images/Omni-Pen.png" alt="Project 7">
-            <p>Deltascape</p>
+            <p>Omni Pen</p>
         </a>
     </div>
     
         <div class="project">
         <a href="{{ site.baseurl }}/projects/ML_Museum">
             <img src="assets/images/ML_Museum.png" alt="Project 8">
-            <p>Deltascape</p>
+            <p>Massive Loop Interaction Museum</p>
         </a>
     </div>
     
