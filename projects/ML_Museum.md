@@ -4,7 +4,9 @@ title: Massive Loop Museum
 ---
 
 ## Massive Loop Interaction Museum
-**Massive Loop Interaction Museum** 
+The **Massive Loop Interaction Museum** is a cross platform VR and Desktop PC interactive environment, created and designed to demonstrate many of the built in features of the Massive Loop SDK. Our built in component system allows world and server creators alike to enhance their Unity projects and experiences by making it easier to add dynamic interactable aspects to their worlds! 
+
+Here, users can learn about how specific components work through a hands on interactive display approach. They are also able to learn about some cool things that can be accomplished through C# scripting in Massive Loop!
 
 ## Overview
 ## Gameplay Showcase
