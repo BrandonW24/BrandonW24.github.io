@@ -36,10 +36,6 @@ Check out the source code and previews of each interactive exhibit here!
 - Game Designer
 - Environment Designer
 
-## Challenges and Solutions
-
-1.  **WIP**
-
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7){:target="_blank" rel="noopener noreferrer"}
