@@ -26,7 +26,7 @@ Below is a breakdown of the major systems that power the Omni Pen.
 
 ## **Key Mechanics**  
 
-## **The Drawing System**
+### **The Drawing System**
 
 The pen draws by spawning prefabs (usually line or trail renderers) as the player holds the trigger:
 
@@ -44,7 +44,7 @@ The drawing system supports:
 
 The drawing system is built around continuous line construction that updates every physics tick, allowing strokes to appear fluid and responsive in VR. By storing each completed line as a separate object, the system can manage a full edit history while keeping performance stable. The use of shared material instances ensures that even complex drawings remain efficient, as reducing material overhead is important when users create many strokes in multiplayer environments.
 
-## **The Color System**
+### **The Color System**
 
 The Omni Pen supports two ways of changing color:
 
@@ -63,7 +63,7 @@ The color system is designed to feel like a professional creative tool, giving p
 
 ****
 
-## **Emission, Metallic, and Smoothness Controls**
+### **Emission, Metallic, and Smoothness Controls**
 
 The pen allows full real-time material customization:
 
@@ -83,7 +83,7 @@ These material controls turn the Omni-Pen into a dynamic creative instrument cap
 
 ****
 
-## **Width Control**
+### **Width Control**
 
 Two buttons allow the user to increase or decrease stroke thickness.
 
@@ -99,7 +99,7 @@ Width control lets players express themselves through line variation, mimicking 
 
 
 
-## **Undo / Redo System**
+### **Undo / Redo System**
 
 The pen includes a full history stack:
 
@@ -118,7 +118,7 @@ Undo and redo support transforms the pen from a simple drawing toy into a seriou
 
 ****
 
-## **Clearing All Drawings**
+### **Clearing All Drawings**
 
 One button removes **all strokes** created by that pen.
 
@@ -129,7 +129,7 @@ One button removes **all strokes** created by that pen.
 **How this tackles the concept:**
 Clearing all lines gives users a clean slate instantly, which is particularly important during collaborative sessions or demos where many users draw simultaneously. This function ensures each pen manages only its own content, preventing accidental deletion of another player's work. By syncing this action over the network, all participants see the drawing space reset at the same moment.
 
-## **Surface Grab Toggle**
+### **Surface Grab Toggle**
 
 The pen can switch between **free-air drawing** and **surface snapping**.
 
@@ -141,7 +141,7 @@ Surface Grab offers precision for users who want to draw directly onto existing 
 
 ****
 
-## **Dynamic Color Menu UI**
+### **Dynamic Color Menu UI**
 
 The color selector opens a UI menu that smoothly expands/contracts.
 
@@ -154,7 +154,7 @@ The animated UI provides a polished user experience that feels intuitive and ple
 
 ****
 
-## **Late Joiner Synchronization**
+### **Late Joiner Synchronization**
 
 When a new player joins:
 
@@ -168,7 +168,7 @@ Late joiner support ensures visual consistency in long-running multiplayer envir
 
 ****
 
-## **Pen Reset Functionality**
+### **Pen Reset Functionality**
 
 A reset button restores the pen to its original world position and rotation.
 
@@ -182,7 +182,7 @@ In active multiplayer worlds, tools can easily be dropped, thrown, or misplaced.
 
 ****
 
-## **Player Labeling**
+#### **Player Labeling**
 
 When grabbed, the pen updates a small UI label:
 
@@ -192,7 +192,7 @@ When grabbed, the pen updates a small UI label:
 **How this tackles the concept:**
 Player labeling enhances clarity in group settings by showing ownership of each pen in real time. This prevents confusion between multiple pens lying around and helps users coordinate during collaborative drawing sessions. It also adds a personalized touch to the tool, reinforcing identity and teamwork.
 
-## **Multiplayer Event System**
+#### **Multiplayer Event System**
 
 The Omni Pen relies heavily on Massive Loop’s event tokens:
 
@@ -218,25 +218,6 @@ The event system is the backbone of the pen’s multiplayer functionality. By se
 ## My Role
 - Designer
 - Programmer
-
-## Challenges and Solutions
-
-1. **Multiplayer Synchronization**  
-
-   - *Challenge*:
-
-   - *Solution*:
-
-2. **Cross-Platform Controls**  
-
-   - *Challenge*:
-
-   - *Solution*:  
-
-3. **Dynamic Color Management System**  
-   - *Challenge*:
-
-   - *Solution*:
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7){:target="_blank" rel="noopener noreferrer"}
