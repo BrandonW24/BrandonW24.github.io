@@ -10,20 +10,11 @@ Here, users can learn about how specific components work through a hands on inte
 
 ## Overview
 ## Gameplay Showcase
+
 <div class="video-container">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/watch?v=H7L3m7JvPRU" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+    <iframe id="video-frame" src="https://www.youtube.com/embed/H7L3m7JvPRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p id="video-caption"></p>
 </div>
-
-
-
-
 
 ## **GitHub Link**  
 
