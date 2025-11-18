@@ -14,7 +14,7 @@ Here, users can learn about how specific components work through a hands on inte
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/-7k-90HuPZ8" 
+    src="https://www.youtube.com/watch?v=H7L3m7JvPRU" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
@@ -24,17 +24,12 @@ Here, users can learn about how specific components work through a hands on inte
 
 
 
-## **Environment**  
 
-The game features a fully-realized virtual bowling alley with:  
+## **GitHub Link**  
 
-- **WIP**
+Check out the source code and previews of each interactive exhibit here!
 
-
----
-## Key Features
-
-* **WIP**
+- **[massiveloop-sdk/ML_Interaction_Museum](https://github.com/massiveloop-sdk/ML_Interaction_Museum)**
 
 ---
 
