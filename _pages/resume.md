@@ -11,7 +11,7 @@ permalink: /resume/
 <div style="text-align: center;">
 ​    
 
-    <a href="{{ '/assets/Brandon_Resume_2025_July.pdf' | relative_url }}" 
+    <a href="{{ '/assets/Brandon_Resume_2025_November.pdf' | relative_url }}" 
         id="resume-download" 
         class="download-button" 
         download>
