@@ -221,4 +221,4 @@ The event system is the backbone of the pen’s multiplayer functionality. By se
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7){:target="_blank" rel="noopener noreferrer"}
-- [View on GitHub](https://gitfront.io/r/BrandonW24/iXvRRiq2iycM/Momo-Space-Diner-Code-Repo/){:target="_blank" rel="noopener noreferrer"}
+- [View on GitHub](https://github.com/BrandonW24/Massive-Loop-Omni-Pen){:target="_blank" rel="noopener noreferrer"}

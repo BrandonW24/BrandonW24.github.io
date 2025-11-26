@@ -39,4 +39,4 @@ Check out the source code and previews of each interactive exhibit here!
 
 ## Links
 - [Play the Game](https://massiveloop.com/world/1806817a-e386-430f-a350-eab9c24b04f7){:target="_blank" rel="noopener noreferrer"}
-- [View on GitHub](https://gitfront.io/r/BrandonW24/iXvRRiq2iycM/Momo-Space-Diner-Code-Repo/){:target="_blank" rel="noopener noreferrer"}
+- [View it on GitHub! massiveloop-sdk/ML_Interaction_Museum](https://github.com/massiveloop-sdk/ML_Interaction_Museum){:target="_blank" rel="noopener noreferrer"}
