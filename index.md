@@ -65,9 +65,7 @@ Here are some of the projects I've worked on. Click on a project to learn more:
             <p>Massive Loop Bowling Club</p>
         </a>
     </div>
-
-```
-<div class="project">
+    <div class="project">
     <a href="{{ site.baseurl }}/projects/Omni-Pen">
         <img src="assets/images/Omni-Pen.png" alt="Project 7">
         <p>Omni Pen</p>
@@ -84,11 +82,10 @@ Here are some of the projects I've worked on. Click on a project to learn more:
 <div class="project">
     <a href="{{ site.baseurl }}/projects/Driving_Range">
         <img src="assets/images/golfCapture_Text.png" alt="Project 9">
-        <p>Massive Loop Interaction Museum</p>
+        <p>Driving Range Mountain Pass</p>
     </a>
 </div>
 </div>
-```
 
 ---
 

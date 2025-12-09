@@ -53,6 +53,7 @@ Here are some of my game development projects.
     </a>
 </div>
 
+
     <div class="project">
     <a href="{{ site.baseurl }}/projects/ML_Museum">
         <img src="{{site.baseurl }}/assets/images/ML_Museum.png" alt="Project 8">
@@ -63,7 +64,7 @@ Here are some of my game development projects.
     <div class="project">
     <a href="{{ site.baseurl }}/projects/Driving_Range">
         <img src="{{site.baseurl }}/assets/images/golfCapture_Text.png" alt="Project 9">
-        <p>Massive Loop Interaction Museum</p>
+        <p>Driving Range Mountain Pass</p>
     </a>
 </div>
 </div>
