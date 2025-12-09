@@ -46,23 +46,33 @@ Here are some of my game development projects.
         <p>Massive Loop Bowling Club</p>
         </a>
     </div>
-    
-    
-        <div class="project">
-        <a href="{{ site.baseurl }}/projects/Omni-Pen">
-            <img src="{{site.baseurl }}/assets/images/Omni-Pen.png" alt="Project 7">
-            <p>Omni Pen</p>
-        </a>
-    </div>
-    
-        <div class="project">
-        <a href="{{ site.baseurl }}/projects/ML_Museum">
-            <img src="{{site.baseurl }}/assets/images/ML_Museum.png" alt="Project 8">
-            <p>Massive Loop Interaction Museum</p>
-        </a>
-    </div>
-    
-    
+
+​    
+```
+    <div class="project">
+    <a href="{{ site.baseurl }}/projects/Omni-Pen">
+        <img src="{{site.baseurl }}/assets/images/Omni-Pen.png" alt="Project 7">
+        <p>Omni Pen</p>
+    </a>
+</div>
+
+    <div class="project">
+    <a href="{{ site.baseurl }}/projects/ML_Museum">
+        <img src="{{site.baseurl }}/assets/images/ML_Museum.png" alt="Project 8">
+        <p>Massive Loop Interaction Museum</p>
+    </a>
+</div>
+
+    <div class="project">
+    <a href="{{ site.baseurl }}/projects/Driving_Range">
+        <img src="{{site.baseurl }}/assets/images/golfCapture_Text.png" alt="Project 9">
+        <p>Massive Loop Interaction Museum</p>
+    </a>
+</div>
+```
+
+
+​    
 </div>
 
 
