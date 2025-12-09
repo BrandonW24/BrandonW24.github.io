@@ -18,7 +18,7 @@ Here are some of my game development projects.
     </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/MiniPutt">
-            <img src="{{ site.baseurl }}/assets/images/project2.jpg" alt="Project 2">
+            <img src="{{ site.baseurl }}/assets/images/GolfEnvironment_2.png" alt="Project 2">
             <p>Miniputt Park VR & Desktop Game</p>
         </a>
     </div>
