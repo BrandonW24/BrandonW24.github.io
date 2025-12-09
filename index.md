@@ -87,7 +87,6 @@ Here are some of the projects I've worked on. Click on a project to learn more:
         <p>Massive Loop Interaction Museum</p>
     </a>
 </div>
-<!-- Add more projects as needed -->
 </div>
 ```
 
