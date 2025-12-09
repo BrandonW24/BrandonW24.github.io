@@ -66,23 +66,30 @@ Here are some of the projects I've worked on. Click on a project to learn more:
         </a>
     </div>
 
-    <div class="project">
-        <a href="{{ site.baseurl }}/projects/Omni-Pen">
-            <img src="assets/images/Omni-Pen.png" alt="Project 7">
-            <p>Omni Pen</p>
-        </a>
-    </div>
-    
-        <div class="project">
-        <a href="{{ site.baseurl }}/projects/ML_Museum">
-            <img src="assets/images/ML_Museum.png" alt="Project 8">
-            <p>Massive Loop Interaction Museum</p>
-        </a>
-    </div>
-    
-    <!-- Add more projects as needed -->
+```html
+<div class="project">
+    <a href="{{ site.baseurl }}/projects/Omni-Pen">
+        <img src="assets/images/Omni-Pen.png" alt="Project 7">
+        <p>Omni Pen</p>
+    </a>
 </div>
 
+<div class="project">
+    <a href="{{ site.baseurl }}/projects/ML_Museum">
+        <img src="assets/images/ML_Museum.png" alt="Project 8">
+        <p>Massive Loop Interaction Museum</p>
+    </a>
+</div>
+
+<div class="project">
+    <a href="{{ site.baseurl }}/projects/Driving_Range">
+        <img src="assets/images/golfCapture_Text.png" alt="Project 9">
+        <p>Massive Loop Interaction Museum</p>
+    </a>
+</div>
+<!-- Add more projects as needed -->
+</div>
+```
 
 ---
 
