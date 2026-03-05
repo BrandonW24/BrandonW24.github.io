@@ -26,6 +26,7 @@ title: Controller to OSC
     </div>
 </div>
 
+
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
     <span class="close">&times;</span>
     <img id="lightbox-img" class="lightbox-content">
@@ -77,5 +78,5 @@ title: Controller to OSC
    - *Solution*: Set up a dedicated local listen port for incoming OSC messages to adjust the wheel's Spring, Damper, and Friction in real-time using `pysdl2`'s haptic drivers.
 
 ## Links
-- [View Showcase on YouTube](https://www.youtube.com/watch?v=9N-i8Vs3JMc){:target="_blank" rel="noopener noreferrer"}
-- [View on GitHub](#){:target="_blank" rel="noopener noreferrer"}
+- [Massive Loop | OSC Vehicle Showcase](https://www.youtube.com/watch?v=9N-i8Vs3JMc)
+- [View it on GitHub!.](https://github.com/BrandonW24/C2O-Controller-2-OSC-)
