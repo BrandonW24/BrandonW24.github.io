@@ -85,6 +85,15 @@ Here are some of the projects I've worked on. Click on a project to learn more:
         <p>Driving Range Mountain Pass</p>
     </a>
 </div>
+
+
+<div class="project">
+    <a href="{{ site.baseurl }}/projects/C2O">
+        <img src="assets/images/C2O.png" alt="Project 10">
+        <p>Python Controller to OSC</p>
+    </a>
+</div>
+
 </div>
 
 ---

@@ -6,9 +6,7 @@ title: Momo's Space Diner
 ## Momo's Space Diner
 **Momo's Space Diner** is a multiplayer cooking game where players collaborate to prepare and serve dishes in a futuristic space diner. The game supports **cross-platform play**, allowing users in **VR**, and **desktop** mode to cook together in real-time. Players can chop ingredients, cook meals, complete quests, and serve customers while managing the chaos of a bustling kitchen.
 
-## Overview
-A detailed description of the project, including its purpose, inspiration, and goals.
----
+
 
 ## Image Gallery
 
