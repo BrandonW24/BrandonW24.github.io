@@ -91,7 +91,7 @@ Standalone applications and in-game tools designed for creation, routing, and ed
         <a href="{{ site.baseurl }}/projects/C2O">
             <img src="{{site.baseurl }}/assets/images/C2O.png" alt="Controller to OSC">
             <h3>CTRL 2 OSC (C2O)</h3>
-            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A multi-threaded Python app bridging physical simulation hardware to digital environments with two-way OSC and Force Feedback.</p>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A multi-threaded app bridging physical simulation hardware to digital environments with two-way OSC and Force Feedback, and motion platform support.</p>
         </a>
     </div>
     <div class="project">
