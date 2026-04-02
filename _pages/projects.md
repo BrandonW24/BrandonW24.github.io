@@ -103,7 +103,7 @@ Standalone applications and in-game tools designed for creation, routing, and ed
     </div>
 <div class="project">
         <a href="{{ site.baseurl }}/projects/Runtime-Ragdoll-Fracture">
-            <img src="{{site.baseurl }}/assets/images/Placeholder.png" alt="Ragdoll and Fracture System">
+            <img src="{{site.baseurl }}/assets/images/Dynamic.png" alt="Ragdoll and Fracture System">
             <div class="project-content">
                 <h3>Runtime Ragdoll and CSG Fracture</h3>
                 <div class="project-meta"><i class="far fa-calendar-alt"></i></div>
