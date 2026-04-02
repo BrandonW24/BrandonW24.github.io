@@ -11,7 +11,7 @@ title: Controller to OSC
 
 **CTRL 2 OSC (C2O)** is a lightweight, GUI-driven application designed to seamlessly bridge the gap between physical hardware and digital environments. Originally developed as a versatile solution for mapping physical simulation hardware to Massive Loop, C2O reads real-time data from USB steering wheels, Bluetooth gamepads, joysticks, and keyboards. It translates these inputs and broadcasts them over a local network using the Open Sound Control (OSC) protocol, ensuring low-latency communication without heavy middleware. The application also features **two-way OSC communication**, allowing remote software to send Force Feedback (FFB) commands back to dynamically adjust steering wheel resistance in real-time.
 
-## Image Gallery
+## Showcase
 
 <div class="gallery">
     <div class="gallery-item">
@@ -29,6 +29,21 @@ title: Controller to OSC
     <span class="close">&times;</span>
     <img id="lightbox-img" class="lightbox-content">
 </div>
+## Video
+
+<div class="video-container">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/vynb3MnTXRs?si=SuXYd97zKXG2S4PC" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
 
 ---
 ## Key Features
@@ -76,5 +91,5 @@ title: Controller to OSC
    - *Solution*: Set up a dedicated local listen port for incoming OSC messages to adjust the wheel's Spring, Damper, and Friction in real-time using `pysdl2`'s haptic drivers.
 
 ## Links
-- [Massive Loop | OSC Vehicle Showcase](https://www.youtube.com/watch?v=9N-i8Vs3JMc)
-- [View it on GitHub!.](https://github.com/BrandonW24/C2O-Controller-2-OSC-)
+- [View it on GitHub!](https://github.com/BrandonW24/C2O-Controller-2-OSC-)
+- [Play it for Free on Massive Loop!](https://massiveloop.com/world/c68678de-c7a8-46b1-aeaa-7d4c78f90710)
