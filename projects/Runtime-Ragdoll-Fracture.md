@@ -18,9 +18,9 @@ This project introduces a highly complex, real-time physics and destruction engi
     </div>
     <button class="carousel-arrow right-arrow" onclick="nextVideo()">&#9655;</button>
     <div class="carousel-dots">
-        <span class="dot active" onclick="setVideo(4)"></span>
-        <span class="dot" onclick="setVideo(5)"></span>
-        <span class="dot" onclick="setVideo(6)"></span>
+        <span class="dot active" onclick="setVideo(0)"></span>
+        <span class="dot" onclick="setVideo(1)"></span>
+        <span class="dot" onclick="setVideo(2)"></span>
     </div>
 </div>
 
@@ -65,4 +65,40 @@ To simulate localized metal crumpling and denting upon impact, I engineered a hi
 ## My Role
 - Physics & Systems Engineer
 
-<script>     const videos = [         { src: "https://www.youtube.com/embed/DRTKVYvbR9w", caption: "Runtime Ragdoll Overview" },         { src: "https://www.youtube.com/embed/iqv8YVANCNg?si=yGqixcs8vqKHBs-O", caption: "Softbody Vehicle Damage" },         { src: "https://www.youtube.com/embed/qMM47nZQPXQ?si=S9XCplKsN6yyuARC", caption: "Procedural Mesh Fracturing" }     ];      let currentVidIndex = 0;     const iframe = document.getElementById("video-frame");     const caption = document.getElementById("video-caption");     const dots = document.querySelectorAll(".carousel-dots .dot");      function updateCarousel(index) {         currentVidIndex = index;         iframe.src = videos[currentVidIndex].src;         caption.innerText = videos[currentVidIndex].caption;                  dots.forEach(dot => dot.classList.remove("active"));         if(dots[currentVidIndex]) {             dots[currentVidIndex].classList.add("active");         }     }      function prevVideo() {         let newIndex = (currentVidIndex === 0) ? videos.length - 1 : currentVidIndex - 1;         updateCarousel(newIndex);     }      function nextVideo() {         let newIndex = (currentVidIndex === videos.length - 1) ? 0 : currentVidIndex + 1;         updateCarousel(newIndex);     }      function setVideo(index) {         updateCarousel(index);     } </script>
+<script>
+    const videos = [
+        { src: "https://www.youtube.com/embed/DRTKVYvbR9w", caption: "Runtime Ragdoll Overview" },
+        { src: "https://www.youtube.com/embed/iqv8YVANCNg?si=yGqixcs8vqKHBs-O", caption: "Softbody Vehicle Damage" },
+        { src: "https://www.youtube.com/embed/qMM47nZQPXQ?si=S9XCplKsN6yyuARC", caption: "Procedural Mesh Fracturing" }
+    ];
+
+    let currentVidIndex = 0;
+    const iframe = document.getElementById("video-frame");
+    const caption = document.getElementById("video-caption");
+    const dots = document.querySelectorAll(".carousel-dots .dot");
+    
+    function updateCarousel(index) {
+        currentVidIndex = index;
+        iframe.src = videos[currentVidIndex].src;
+        caption.innerText = videos[currentVidIndex].caption;
+        
+        dots.forEach(dot => dot.classList.remove("active"));
+        if(dots[currentVidIndex]) {
+            dots[currentVidIndex].classList.add("active");
+        }
+    }
+    
+    function prevVideo() {
+        let newIndex = (currentVidIndex === 0) ? videos.length - 1 : currentVidIndex - 1;
+        updateCarousel(newIndex);
+    }
+    
+    function nextVideo() {
+        let newIndex = (currentVidIndex === videos.length - 1) ? 0 : currentVidIndex + 1;
+        updateCarousel(newIndex);
+    }
+    
+    function setVideo(index) {
+        updateCarousel(index);
+    }
+</script>

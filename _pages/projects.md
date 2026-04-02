@@ -107,12 +107,7 @@ Standalone applications and in-game tools designed for creation, routing, and ed
             <div class="project-content">
                 <h3>Runtime Ragdoll and CSG Fracture</h3>
                 <div class="project-meta"><i class="far fa-calendar-alt"></i></div>
-                <p>A highly technical physics engine featuring dynamic runtime player avatar cloning, auto-generated ragdoll joints + ragdoll physics, and procedural mesh slicing/CSG carving.</p>
-                <div class="project-tags">
-                    <span class="tag">C#</span>
-                    <span class="tag">Physics Math</span>
-                    <span class="tag">Mesh Topology</span>
-                </div>
+                <p>A custom physics engine built with the Massive Loop SDK in Unity, featuring dynamic runtime player avatar cloning, auto-generated ragdoll joints + ragdoll physics, and procedural mesh slicing/CSG carving.</p>
                 <div class="project-link"><i class="fas fa-external-link-alt"></i> View Case Study</div>
             </div>
         </a>
