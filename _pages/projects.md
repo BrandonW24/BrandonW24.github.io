@@ -11,7 +11,7 @@ Click on any project to read the full development breakdown!
 
 ---
 
-## 🌐 Immersive Worlds & Social Spaces
+## Immersive Worlds & Social Spaces
 Interactive environments focused on networked physics, cross-platform play, and shared experiences.
 
 <div class="project-grid">
@@ -47,7 +47,7 @@ Interactive environments focused on networked physics, cross-platform play, and 
 
 ---
 
-## ⚔️ Gameplay & Combat Systems
+## Gameplay & Combat Systems
 Projects focused on tight mechanics, AI, dynamic loot, and competitive multiplayer loops.
 
 <div class="project-grid">
@@ -76,7 +76,7 @@ Projects focused on tight mechanics, AI, dynamic loot, and competitive multiplay
 
 ---
 
-## 🛠️ Tools, Interactions & Utilities
+## Tools, Interactions & Utilities
 Standalone applications and in-game tools designed for creation, routing, and education.
 
 <div class="project-grid">
