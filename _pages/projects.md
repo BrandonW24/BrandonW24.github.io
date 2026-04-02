@@ -106,9 +106,7 @@ Standalone applications and in-game tools designed for creation, routing, and ed
             <img src="{{site.baseurl }}/assets/images/Dynamic.png" alt="Ragdoll and Fracture System">
             <div class="project-content">
                 <h3>Runtime Ragdoll and CSG Fracture</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i></div>
                 <p>A custom physics engine built with the Massive Loop SDK in Unity, featuring dynamic runtime player avatar cloning, auto-generated ragdoll joints + ragdoll physics, and procedural mesh slicing/CSG carving.</p>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Case Study</div>
             </div>
         </a>
     </div>    
