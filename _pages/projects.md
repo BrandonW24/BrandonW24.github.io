@@ -18,48 +18,58 @@ Interactive environments focused on networked physics, cross-platform play, and 
     <div class="project">
         <a href="{{ site.baseurl }}/projects/ML-BowlingClub">
             <img src="{{site.baseurl }}/assets/images/BowlingClub.png" alt="Massive Loop Bowling Club">
-            <div class="project-content">
-                <h3>Massive Loop Bowling Club</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2024</div>
-                <p>A highly synchronized VR bowling alley featuring realistic physics, team-based play, and precise multi-threshold pin detection.</p>
-                <div class="project-tags">
-                    <span class="tag">Unity</span>
-                    <span class="tag">C#</span>
-                    <span class="tag">Networked Physics</span>
-                </div>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Project</div>
-            </div>
+            <h3>Massive Loop Bowling Club</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A highly synchronized VR bowling alley featuring realistic physics, team-based play, and precise multi-threshold pin detection.</p>
         </a>
     </div>    
     <div class="project">
         <a href="{{ site.baseurl }}/projects/MiniPutt">
             <img src="{{ site.baseurl }}/assets/images/GolfEnvironment_2.png" alt="Miniputt Park">
-            <div class="project-content">
-                <h3>Miniputt Park | Castle</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2023</div>
-                <p>A nostalgic, cross-platform mini-golf experience with VR support, dynamic club scaling, and physics-based gameplay.</p>
-                <div class="project-tags">
-                    <span class="tag">Unity</span>
-                    <span class="tag">C#</span>
-                    <span class="tag">VR</span>
-                </div>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Project</div>
-            </div>
+            <h3>Miniputt Park | Castle</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A nostalgic, cross-platform mini-golf experience with VR support, dynamic club scaling, and physics-based gameplay.</p>
         </a>
     </div>
     <div class="project">
         <a href="{{ site.baseurl }}/projects/Driving_Range">
             <img src="{{site.baseurl }}/assets/images/golfCapture_Text.png" alt="Driving Range Mountain Pass">
-            <div class="project-content">
-                <h3>Driving Range</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2023</div>
-                <p>A multiplayer golf driving range using custom sphere physics casting for highly accurate swing detection and ball trajectories.</p>
-                <div class="project-tags">
-                    <span class="tag">Unity</span>
-                    <span class="tag">Physics Casting</span>
-                </div>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Project</div>
-            </div>
+            <h3>Driving Range Mountain Pass</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A multiplayer golf driving range using custom sphere physics casting for highly accurate swing detection and ball trajectories.</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Space-Diner">
+            <img src="{{ site.baseurl }}/assets/images/Momo.png" alt="Momo's Space Diner">
+            <h3>Momo's Space Diner</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A stylized, interactive social VR hangout space and diner environment.</p>
+        </a>
+    </div>
+</div>
+
+---
+
+## ⚔️ Gameplay & Combat Systems
+Projects focused on tight mechanics, AI, dynamic loot, and competitive multiplayer loops.
+
+<div class="project-grid">
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Delta-Quest">
+            <img src="{{ site.baseurl }}/assets/images/project1_4.jpg" alt="Deltascape">
+            <h3>Deltascape</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A co-op looter-shooter featuring dynamic AI, randomly generated gear, and fully synchronized multiplayer built in C#.</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Night-Ops">
+            <img src="{{ site.baseurl }}/assets/images/NightOps_1.jpg" alt="Neighborhood Night Ops">
+            <h3>Neighborhood Night Ops</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A fast-paced, tactical PvP deathmatch shooter set in a highly iterative, real-world inspired neighborhood map.</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/Fruit-Dojo">
+            <img src="{{ site.baseurl }}/assets/images/FruitNinja.png" alt="Fruit Dojo">
+            <h3>Fruit Dojo</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">An arcade-style interactive slicing game built specifically for motion-controlled VR.</p>
         </a>
     </div>
 </div>
@@ -71,34 +81,24 @@ Standalone applications and in-game tools designed for creation, routing, and ed
 
 <div class="project-grid">
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/C2O">
-            <img src="{{site.baseurl }}/assets/images/C2O.png" alt="Controller to OSC">
-            <div class="project-content">
-                <h3>CTRL 2 OSC (C2O)</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2024</div>
-                <p>A multi-threaded Python app bridging physical simulation hardware to digital environments with two-way OSC and Force Feedback.</p>
-                <div class="project-tags">
-                    <span class="tag">Python</span>
-                    <span class="tag">OSC</span>
-                    <span class="tag">Hardware</span>
-                </div>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Source</div>
-            </div>
+        <a href="{{ site.baseurl }}/projects/Omni-Pen">
+            <img src="{{site.baseurl }}/assets/images/Omni-Pen.png" alt="Omni Pen">
+            <h3>Omni Pen</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A networked, real-time 3D drawing tool with material customization, undo/redo history, and cross-client synchronization.</p>
         </a>
     </div>
     <div class="project">
-        <a href="{{ site.baseurl }}/projects/Omni-Pen">
-            <img src="{{site.baseurl }}/assets/images/Omni-Pen.png" alt="Omni Pen">
-            <div class="project-content">
-                <h3>Omni Pen</h3>
-                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2024</div>
-                <p>A networked, real-time 3D drawing tool with material customization, undo/redo history, and cross-client synchronization.</p>
-                <div class="project-tags">
-                    <span class="tag">Unity</span>
-                    <span class="tag">Multiplayer UI</span>
-                </div>
-                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Project</div>
-            </div>
+        <a href="{{ site.baseurl }}/projects/C2O">
+            <img src="{{site.baseurl }}/assets/images/C2O.png" alt="Controller to OSC">
+            <h3>CTRL 2 OSC (C2O)</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">A multi-threaded app bridging physical simulation hardware to digital environments with two-way OSC and Force Feedback, and motion platform support.</p>
+        </a>
+    </div>
+    <div class="project">
+        <a href="{{ site.baseurl }}/projects/ML_Museum">
+            <img src="{{site.baseurl }}/assets/images/ML_Museum.png" alt="Massive Loop Interaction Museum">
+            <h3>ML Interaction Museum</h3>
+            <p style="font-weight: normal; font-size: 0.9em; color: #555;">An interactive, educational hub designed to demonstrate the capabilities of the platform's SDK and component systems.</p>
         </a>
     </div>
 </div>

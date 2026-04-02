@@ -114,13 +114,13 @@ h3 {
 }
 
 .project {
-    background-color: #121928; /* Deep blue/black card background */
-    border-radius: 12px;
-    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 10px;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    text-align: left;
-    display: flex;
-    flex-direction: column;
 }
 
 .project:hover {
@@ -130,89 +130,27 @@ h3 {
 
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 25px;
-    padding: 20px 0;
-}
-
-.project a {
-    text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* 3 per row */
+    gap: 15px;
+    justify-items: center;
+    padding: 20px;
 }
 
 .project img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    border-bottom: 1px solid #2a2440;
+    width: 100%; /* Make images fill the container */
+    max-width: 300px; /* Limit max width */
+    height: 200px; /* Fixed height to maintain uniformity */
+    object-fit: cover; /* Ensures images fill the space without distortion */
+    border-radius: 10px; /* Optional: Adds rounded corners */
 }
-
-.project-content {
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-}
-
-.project h3 {
-    color: #ff2a6d; /* Vibrant pink from reference */
-    margin: 0 0 8px 0;
-    font-size: 1.3rem;
-    font-weight: bold;
-}
-
-.project-meta {
-    font-size: 0.85rem;
-    color: #8b889e;
-    margin-bottom: 12px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-}
-
 .project p {
-    font-size: 0.95rem;
-    color: #a09eb0; /* Light grey text */
-    line-height: 1.5;
-    margin: 0 0 20px 0;
-    flex-grow: 1;
-}
-
-.project-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 20px;
-}
-
-.tag {
-    background-color: #261f3d; /* Dark pill background */
-    color: #d1cce6;
-    font-size: 0.75rem;
-    padding: 5px 12px;
-    border-radius: 20px;
-    font-weight: 600;
-}
-
-.project-link {
-    font-size: 0.9rem;
-    color: #d1cce6;
-    display: flex;
-    align-items: center;
-    gap: 8px;
+    text-align: center;
     font-weight: bold;
-    transition: color 0.2s;
+    margin-top: 5px;
 }
-
-.project:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-}
-
-.project:hover .project-link {
-    color: #2a9fff; /* Link turns blue on hover */
+.project h3 {
+    margin-top: 10px;
+    font-size: 18px;
 }
 
 /* Footer remains at the bottom */
