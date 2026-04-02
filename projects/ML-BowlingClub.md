@@ -20,7 +20,7 @@ title: Massive Loop Bowling Club
 
 ---
 
-## 🛠️ Technical Breakdown
+## Technical Breakdown
 
 While a bowling game might seem straightforward, keeping physics, animations, and game states perfectly synchronized across multiple VR and Desktop clients requires rigorous network engineering and physics manipulation.
 
