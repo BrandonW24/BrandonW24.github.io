@@ -101,4 +101,23 @@ Standalone applications and in-game tools designed for creation, routing, and ed
             <p style="font-weight: normal; font-size: 0.9em; color: #555;">An interactive, educational hub designed to demonstrate the capabilities of the platform's SDK and component systems.</p>
         </a>
     </div>
+<div class="project">
+        <a href="{{ site.baseurl }}/projects/Runtime-Ragdoll-Fracture">
+            <img src="{{site.baseurl }}/assets/images/Placeholder.png" alt="Ragdoll and Fracture System">
+            <div class="project-content">
+                <h3>Runtime Ragdoll and CSG Fracture</h3>
+                <div class="project-meta"><i class="far fa-calendar-alt"></i> 2024</div>
+                <p>A highly technical physics engine featuring dynamic runtime player avatar cloning, auto-generated ragdoll joints + ragdoll physics, and procedural mesh slicing/CSG carving.</p>
+                <div class="project-tags">
+                    <span class="tag">C#</span>
+                    <span class="tag">Physics Math</span>
+                    <span class="tag">Mesh Topology</span>
+                </div>
+                <div class="project-link"><i class="fas fa-external-link-alt"></i> View Case Study</div>
+            </div>
+        </a>
+    </div>    
+    
+    
+    
 </div>
