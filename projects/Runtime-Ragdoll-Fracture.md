@@ -18,9 +18,9 @@ This project introduces a highly complex, real-time physics and destruction engi
     </div>
     <button class="carousel-arrow right-arrow" onclick="nextVideo()">&#9655;</button>
     <div class="carousel-dots">
-        <span class="dot active" onclick="setVideo(0)"></span>
-        <span class="dot" onclick="setVideo(1)"></span>
-        <span class="dot" onclick="setVideo(2)"></span>
+        <span class="dot active" onclick="setVideo(4)"></span>
+        <span class="dot" onclick="setVideo(5)"></span>
+        <span class="dot" onclick="setVideo(6)"></span>
     </div>
 </div>
 
